@@ -1,0 +1,10 @@
+[2025-06-10] 15:32:34 INFO     Запуск программы тестирования
+[2025-06-10] 15:32:34 INFO     Читаем url.cfg
+[2025-06-10] 15:32:34 INFO     Читаем Template_decision.xml
+[2025-06-10] 15:32:34 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 15:32:34 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 15:32:34 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 15:32:42 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:32:42 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4446, референс JaAOUuXoOvtSpOEbveZCgavlQvLFKujfKQntJlWrYSayqfeWQD
+[2025-06-10] 15:32:43 INFO     Пробуем отправить документ, референс JaAOUuXoOvtSpOEbveZCgavlQvLFKujfKQntJlWrYSayqfeWQD
+[2025-06-10] 15:32:43 INFO     Успешно отправлен документ <paymentDocument> № 4446, референс JaAOUuXoOvtSpOEbveZCgavlQvLFKujfKQntJlWrYSayqfeWQD

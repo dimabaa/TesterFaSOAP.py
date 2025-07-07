@@ -1,0 +1,10 @@
+[2025-06-11] 16:33:13 INFO     Запуск программы тестирования
+[2025-06-11] 16:33:13 INFO     Читаем url.cfg
+[2025-06-11] 16:33:13 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:33:13 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:33:13 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:33:13 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:33:16 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:33:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7136, референс lxyJGkTFAbFAuluXQTuDNRaDVYDOmHLBojnSwBbpiORoQkpOVj
+[2025-06-11] 16:33:16 INFO     Пробуем отправить документ, референс lxyJGkTFAbFAuluXQTuDNRaDVYDOmHLBojnSwBbpiORoQkpOVj
+[2025-06-11] 16:33:18 INFO     Успешно отправлен документ <paymentDocument> № 7136, референс lxyJGkTFAbFAuluXQTuDNRaDVYDOmHLBojnSwBbpiORoQkpOVj

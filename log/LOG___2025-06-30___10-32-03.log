@@ -1,0 +1,10 @@
+[2025-06-30] 10:32:03 INFO     Запуск программы тестирования
+[2025-06-30] 10:32:03 INFO     Читаем url.cfg
+[2025-06-30] 10:32:03 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:32:03 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:32:03 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:32:03 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:32:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:32:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7315, референс g3rtWaevuNBXyvpLrehFC73kWCbE2DZVrcmzKgKb
+[2025-06-30] 10:32:05 INFO     Пробуем отправить документ, референс g3rtWaevuNBXyvpLrehFC73kWCbE2DZVrcmzKgKb
+[2025-06-30] 10:32:06 INFO     Успешно отправлен документ <paymentDocument> № 7315, референс g3rtWaevuNBXyvpLrehFC73kWCbE2DZVrcmzKgKb

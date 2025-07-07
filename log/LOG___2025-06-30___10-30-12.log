@@ -1,0 +1,10 @@
+[2025-06-30] 10:30:12 INFO     Запуск программы тестирования
+[2025-06-30] 10:30:12 INFO     Читаем url.cfg
+[2025-06-30] 10:30:12 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:30:12 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:30:12 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:30:12 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:30:13 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:30:13 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4495, референс sPh7hp28cGyDjUkOB3jM1VmSdgSvmmOeUZjl0fuE
+[2025-06-30] 10:30:13 INFO     Пробуем отправить документ, референс sPh7hp28cGyDjUkOB3jM1VmSdgSvmmOeUZjl0fuE
+[2025-06-30] 10:30:14 INFO     Успешно отправлен документ <paymentDocument> № 4495, референс sPh7hp28cGyDjUkOB3jM1VmSdgSvmmOeUZjl0fuE

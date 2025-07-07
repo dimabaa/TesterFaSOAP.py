@@ -1,0 +1,10 @@
+[2025-06-16] 16:09:03 INFO     Запуск программы тестирования
+[2025-06-16] 16:09:03 INFO     Читаем url.cfg
+[2025-06-16] 16:09:03 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:09:03 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:09:03 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:09:03 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:09:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:09:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7957, референс KBaRCcXbTjCupgpElWBvgYjThssuwyNdWHyUCVYXhJxupQrQBp
+[2025-06-16] 16:09:05 INFO     Пробуем отправить документ, референс KBaRCcXbTjCupgpElWBvgYjThssuwyNdWHyUCVYXhJxupQrQBp
+[2025-06-16] 16:09:06 INFO     Успешно отправлен документ <paymentDocument> № 7957, референс KBaRCcXbTjCupgpElWBvgYjThssuwyNdWHyUCVYXhJxupQrQBp

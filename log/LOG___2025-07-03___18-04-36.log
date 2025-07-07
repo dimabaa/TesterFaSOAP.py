@@ -1,0 +1,9 @@
+[2025-07-03] 18:04:36 INFO     Запуск программы тестирования
+[2025-07-03] 18:04:36 INFO     Читаем url.cfg
+[2025-07-03] 18:04:36 INFO     Читаем Template_decision.xml
+[2025-07-03] 18:04:36 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 18:04:36 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 18:04:36 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 18:04:36 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 18:04:41 INFO     Пробуем отправить документ, референс 
+[2025-07-03] 18:04:42 INFO     Успешно отправлен документ <paymentDocument> № , референс 

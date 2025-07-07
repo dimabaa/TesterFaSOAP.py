@@ -1,0 +1,8 @@
+[2025-07-03] 12:21:16 INFO     Запуск программы тестирования
+[2025-07-03] 12:21:16 INFO     Читаем url.cfg
+[2025-07-03] 12:21:16 INFO     Читаем Template_decision.xml
+[2025-07-03] 12:21:16 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 12:21:16 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 12:21:16 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 12:21:16 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 12:21:18 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5582, референс B1ctG2qOrhOYVtJDjF66fCOZkcpvFlYRlAhYmFsb

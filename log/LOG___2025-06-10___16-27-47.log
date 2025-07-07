@@ -1,0 +1,13 @@
+[2025-06-10] 16:27:47 INFO     Запуск программы тестирования
+[2025-06-10] 16:27:47 INFO     Читаем url.cfg
+[2025-06-10] 16:27:47 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:27:47 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:27:47 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:27:47 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:27:49 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:27:49 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9866, референс vXnztkJNulCfVmwxXsUGnxvaAABICaIvapVosHHjsObRWyJyGP
+[2025-06-10] 16:27:52 INFO     Пробуем отправить документ, референс vXnztkJNulCfVmwxXsUGnxvaAABICaIvapVosHHjsObRWyJyGP
+[2025-06-10] 16:27:52 INFO     Успешно отправлен документ <paymentDocument> № 9866, референс vXnztkJNulCfVmwxXsUGnxvaAABICaIvapVosHHjsObRWyJyGP
+[2025-06-10] 16:27:55 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:27:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9013, референс tBQrgKPQiPVuOnwizvZMXugbSgktNSyETesiQBQRYAagezlCGc
+[2025-06-10] 16:27:56 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 9013, референс tBQrgKPQiPVuOnwizvZMXugbSgktNSyETesiQBQRYAagezlCGc

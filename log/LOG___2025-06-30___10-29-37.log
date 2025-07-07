@@ -1,0 +1,10 @@
+[2025-06-30] 10:29:37 INFO     Запуск программы тестирования
+[2025-06-30] 10:29:37 INFO     Читаем url.cfg
+[2025-06-30] 10:29:37 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:29:37 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:29:37 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:29:37 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:29:39 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:29:39 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3306, референс F2sLHTY7KQfFgAcLWgecilxn7d8jrVqHn1SGyF2b
+[2025-06-30] 10:29:39 INFO     Пробуем отправить документ, референс F2sLHTY7KQfFgAcLWgecilxn7d8jrVqHn1SGyF2b
+[2025-06-30] 10:29:40 INFO     Успешно отправлен документ <paymentDocument> № 3306, референс F2sLHTY7KQfFgAcLWgecilxn7d8jrVqHn1SGyF2b

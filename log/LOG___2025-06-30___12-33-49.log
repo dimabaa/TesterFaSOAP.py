@@ -1,0 +1,9 @@
+[2025-06-30] 12:33:49 INFO     Запуск программы тестирования
+[2025-06-30] 12:33:49 INFO     Читаем url.cfg
+[2025-06-30] 12:33:49 INFO     Читаем Template_decision.xml
+[2025-06-30] 12:33:49 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 12:33:49 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 12:33:49 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 12:33:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4567, референс dPctQMbsXNHEztJrZ5sEcJs9Larol5BQOAYTRnpU
+[2025-06-30] 12:33:52 INFO     Пробуем отправить документ, референс dPctQMbsXNHEztJrZ5sEcJs9Larol5BQOAYTRnpU
+[2025-06-30] 12:33:52 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException

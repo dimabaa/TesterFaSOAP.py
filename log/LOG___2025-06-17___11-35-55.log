@@ -1,0 +1,10 @@
+[2025-06-17] 11:35:55 INFO     Запуск программы тестирования
+[2025-06-17] 11:35:55 INFO     Читаем url.cfg
+[2025-06-17] 11:35:55 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:35:55 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:35:55 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:35:55 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:35:56 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:35:56 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9424, референс UNKEmNntVXGLurItxzfbdnKOkdnOnzqTFWzzgwNUmgHFyuIhBV
+[2025-06-17] 11:35:56 INFO     Пробуем отправить документ, референс UNKEmNntVXGLurItxzfbdnKOkdnOnzqTFWzzgwNUmgHFyuIhBV
+[2025-06-17] 11:35:57 INFO     Успешно отправлен документ <paymentDocument> № 9424, референс UNKEmNntVXGLurItxzfbdnKOkdnOnzqTFWzzgwNUmgHFyuIhBV

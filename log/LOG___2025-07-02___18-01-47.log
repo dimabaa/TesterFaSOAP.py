@@ -1,0 +1,10 @@
+[2025-07-02] 18:01:47 INFO     Запуск программы тестирования
+[2025-07-02] 18:01:47 INFO     Читаем url.cfg
+[2025-07-02] 18:01:47 INFO     Читаем Template_decision.xml
+[2025-07-02] 18:01:47 INFO     Читаем Template_queryDecision.xml
+[2025-07-02] 18:01:47 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-02] 18:01:47 INFO     Читаем Template_incomingDocument.xml
+[2025-07-02] 18:01:47 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-02] 18:01:49 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5068, референс FV7hL0ezn5HrhfnOWXrtDTWbYXVvXUE8MZXW2DK9
+[2025-07-02] 18:01:50 INFO     Пробуем отправить документ, референс FV7hL0ezn5HrhfnOWXrtDTWbYXVvXUE8MZXW2DK9
+[2025-07-02] 18:02:20 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: Timeout

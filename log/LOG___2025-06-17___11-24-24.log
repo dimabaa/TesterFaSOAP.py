@@ -1,0 +1,16 @@
+[2025-06-17] 11:24:24 INFO     Запуск программы тестирования
+[2025-06-17] 11:24:24 INFO     Читаем url.cfg
+[2025-06-17] 11:24:24 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:24:24 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:24:24 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:24:24 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:24:29 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:24:29 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5821, референс JodxFWiDGlwtdYtxzlvjDCnDJZwHYzqDQiBhPIyusVmQdWNfZF
+[2025-06-17] 11:24:30 INFO     Пробуем отправить документ, референс JodxFWiDGlwtdYtxzlvjDCnDJZwHYzqDQiBhPIyusVmQdWNfZF
+[2025-06-17] 11:24:31 INFO     Успешно отправлен документ <paymentDocument> № 5821, референс JodxFWiDGlwtdYtxzlvjDCnDJZwHYzqDQiBhPIyusVmQdWNfZF
+[2025-06-17] 11:24:35 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:24:35 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6338, референс thOesFIPbrCYIESsdyMNXQPoqrGFxfnYyKyrheMBzWXCVgToJw
+[2025-06-17] 11:24:36 INFO     Пробуем отправить документ, референс thOesFIPbrCYIESsdyMNXQPoqrGFxfnYyKyrheMBzWXCVgToJw
+[2025-06-17] 11:24:37 INFO     Успешно отправлен документ <paymentDocument> № 6338, референс thOesFIPbrCYIESsdyMNXQPoqrGFxfnYyKyrheMBzWXCVgToJw
+[2025-06-17] 11:24:39 INFO     Пробуем отправить запрос <queryDecision> к референсу thOesFIPbrCYIESsdyMNXQPoqrGFxfnYyKyrheMBzWXCVgToJw
+[2025-06-17] 11:24:39 INFO     Запрос <queryDecision> успешно отправлен к референсу thOesFIPbrCYIESsdyMNXQPoqrGFxfnYyKyrheMBzWXCVgToJw

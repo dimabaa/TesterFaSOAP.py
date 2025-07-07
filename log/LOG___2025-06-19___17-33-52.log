@@ -1,0 +1,13 @@
+[2025-06-19] 17:33:52 INFO     Запуск программы тестирования
+[2025-06-19] 17:33:52 INFO     Читаем url.cfg
+[2025-06-19] 17:33:52 INFO     Читаем Template_decision.xml
+[2025-06-19] 17:33:52 INFO     Читаем Template_queryDecision.xml
+[2025-06-19] 17:33:52 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-19] 17:33:52 INFO     Читаем Template_incomingDocument.xml
+[2025-06-19] 17:34:01 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:34:01 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1468, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY
+[2025-06-19] 17:34:02 INFO     Пробуем отправить документ, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY
+[2025-06-19] 17:34:03 INFO     Успешно отправлен документ <paymentDocument> № 1468, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY
+[2025-06-19] 17:34:06 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 1468, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY
+[2025-06-19] 17:34:07 INFO     Пробуем отправить документ, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY
+[2025-06-19] 17:34:07 INFO     Успешно отправлен документ <paymentDocument> № 1468, референс NCvXYCWPTMbyFyxoBtvAjVIZMlruVlPMqiHMscpVvGYviKHVHY

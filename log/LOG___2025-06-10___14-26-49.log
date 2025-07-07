@@ -1,0 +1,41 @@
+[2025-06-10] 14:26:49 INFO     Запуск программы тестирования
+[2025-06-10] 14:26:49 INFO     Читаем url.cfg
+[2025-06-10] 14:26:49 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:26:49 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:26:49 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:26:49 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:26:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:26:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 763, референс itVTdJlGOpXqsfuGkbcRMsMauUeVrWbwPhzjkukgTjQLCPJOtD
+[2025-06-10] 14:26:52 INFO     Пробуем отправить документ, референс itVTdJlGOpXqsfuGkbcRMsMauUeVrWbwPhzjkukgTjQLCPJOtD
+[2025-06-10] 14:26:52 INFO     Успешно отправлен документ <paymentDocument> № 763, референс itVTdJlGOpXqsfuGkbcRMsMauUeVrWbwPhzjkukgTjQLCPJOtD
+[2025-06-10] 14:26:57 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:26:57 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7121, референс aVIneoXoDzIINXmNpEbzYuNaDJGhhwlkEwEDditQmvWIDUywPo
+[2025-06-10] 14:26:57 INFO     Пробуем отправить документ, референс aVIneoXoDzIINXmNpEbzYuNaDJGhhwlkEwEDditQmvWIDUywPo
+[2025-06-10] 14:26:59 INFO     Успешно отправлен документ <paymentDocument> № 7121, референс aVIneoXoDzIINXmNpEbzYuNaDJGhhwlkEwEDditQmvWIDUywPo
+[2025-06-10] 14:27:02 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:27:02 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 14:27:02 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 561, референс cEyslVcjuLfCSzrsXRXglJHSJMdmLeGOEoxURqcpCnKiAcMquV
+[2025-06-10] 14:27:03 INFO     Пробуем отправить документ, референс cEyslVcjuLfCSzrsXRXglJHSJMdmLeGOEoxURqcpCnKiAcMquV
+[2025-06-10] 14:27:04 INFO     Успешно отправлен документ <paymentDocument> № 561, референс cEyslVcjuLfCSzrsXRXglJHSJMdmLeGOEoxURqcpCnKiAcMquV
+[2025-06-10] 14:27:22 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:27:22 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 14:27:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8813, референс cgcRwkihYqpKWIvVafyFDTZKhQLmhrdgvnLhoUkxhtZrZmwnfb
+[2025-06-10] 14:27:23 INFO     Пробуем отправить документ, референс cgcRwkihYqpKWIvVafyFDTZKhQLmhrdgvnLhoUkxhtZrZmwnfb
+[2025-06-10] 14:27:24 INFO     Успешно отправлен документ <paymentDocument> № 8813, референс cgcRwkihYqpKWIvVafyFDTZKhQLmhrdgvnLhoUkxhtZrZmwnfb
+[2025-06-10] 14:27:28 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:27:28 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 14:27:28 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5101, референс dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:28 INFO     Пробуем отправить документ, референс dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:29 INFO     Успешно отправлен документ <paymentDocument> № 5101, референс dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:39 INFO     Пробуем отправить запрос <queryDecision> к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:39 INFO     Запрос <queryDecision> успешно отправлен к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:42 INFO     Пробуем отправить запрос <queryDecision> к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:42 INFO     Запрос <queryDecision> успешно отправлен к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:43 INFO     Пробуем отправить запрос <queryDecision> к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:43 INFO     Запрос <queryDecision> успешно отправлен к референсу dKsQfbxbEGegmwYZLYQMaaGHoPMOEpInNObwuBjQDxOiPfNkcT
+[2025-06-10] 14:27:44 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:27:44 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1619, референс DymZREVcsrKgXdbGbqhoIiohtzLBEeakvXrTtAblQOiJiTUdGi
+[2025-06-10] 14:27:45 INFO     Пробуем отправить документ, референс DymZREVcsrKgXdbGbqhoIiohtzLBEeakvXrTtAblQOiJiTUdGi
+[2025-06-10] 14:27:45 INFO     Успешно отправлен документ <paymentDocument> № 1619, референс DymZREVcsrKgXdbGbqhoIiohtzLBEeakvXrTtAblQOiJiTUdGi
+[2025-06-10] 14:27:50 INFO     Пробуем отправить запрос <queryDecision> к референсу DymZREVcsrKgXdbGbqhoIiohtzLBEeakvXrTtAblQOiJiTUdGi
+[2025-06-10] 14:27:50 INFO     Запрос <queryDecision> успешно отправлен к референсу DymZREVcsrKgXdbGbqhoIiohtzLBEeakvXrTtAblQOiJiTUdGi

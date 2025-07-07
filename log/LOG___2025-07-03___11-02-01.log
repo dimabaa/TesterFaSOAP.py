@@ -1,0 +1,16 @@
+[2025-07-03] 11:02:01 INFO     Запуск программы тестирования
+[2025-07-03] 11:02:01 INFO     Читаем url.cfg
+[2025-07-03] 11:02:01 INFO     Читаем Template_decision.xml
+[2025-07-03] 11:02:01 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 11:02:01 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 11:02:01 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 11:02:01 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 11:02:02 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4232, референс amROauxrIRLoVhyqZjmdFasIAOHOAPGmgXSgSDnD
+[2025-07-03] 11:02:02 INFO     Пробуем отправить документ, референс amROauxrIRLoVhyqZjmdFasIAOHOAPGmgXSgSDnD
+[2025-07-03] 11:02:04 INFO     Успешно отправлен документ <paymentDocument> № 4232, референс amROauxrIRLoVhyqZjmdFasIAOHOAPGmgXSgSDnD
+[2025-07-03] 11:02:10 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8417, референс bpy21cRpt0UyXcWjx8NdjzCIfJFlzx5UVSquvxNw
+[2025-07-03] 11:02:10 INFO     Пробуем отправить документ, референс bpy21cRpt0UyXcWjx8NdjzCIfJFlzx5UVSquvxNw
+[2025-07-03] 11:02:11 INFO     Успешно отправлен документ <paymentDocument> № 8417, референс bpy21cRpt0UyXcWjx8NdjzCIfJFlzx5UVSquvxNw
+[2025-07-03] 11:02:33 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5679, референс wlg73sswKiEAMhHCfY3mdX4WKN3HKKd2Vumku1cz
+[2025-07-03] 11:02:34 INFO     Пробуем отправить документ, референс wlg73sswKiEAMhHCfY3mdX4WKN3HKKd2Vumku1cz
+[2025-07-03] 11:02:34 INFO     Успешно отправлен документ <paymentDocument> № 5679, референс wlg73sswKiEAMhHCfY3mdX4WKN3HKKd2Vumku1cz

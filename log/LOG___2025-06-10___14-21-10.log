@@ -1,0 +1,10 @@
+[2025-06-10] 14:21:10 INFO     Запуск программы тестирования
+[2025-06-10] 14:21:10 INFO     Читаем url.cfg
+[2025-06-10] 14:21:10 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:21:10 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:21:10 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:21:10 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:21:11 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:21:11 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9936, референс zgATfnoAqcvnnRfyrUjisgaUNZBKRgsDbQylnvcQOenbPpGtQa
+[2025-06-10] 14:21:12 INFO     Пробуем отправить документ, референс zgATfnoAqcvnnRfyrUjisgaUNZBKRgsDbQylnvcQOenbPpGtQa
+[2025-06-10] 14:21:13 INFO     Успешно отправлен документ <paymentDocument> № 9936, референс zgATfnoAqcvnnRfyrUjisgaUNZBKRgsDbQylnvcQOenbPpGtQa

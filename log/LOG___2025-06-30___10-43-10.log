@@ -1,0 +1,19 @@
+[2025-06-30] 10:43:10 INFO     Запуск программы тестирования
+[2025-06-30] 10:43:10 INFO     Читаем url.cfg
+[2025-06-30] 10:43:10 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:43:10 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:43:10 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:43:10 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:43:11 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:43:11 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9036, референс 8teceYbfYMGVwxFwhZzko9FiyHfHaZsFVjHZq4xm
+[2025-06-30] 10:43:12 INFO     Пробуем отправить документ, референс 8teceYbfYMGVwxFwhZzko9FiyHfHaZsFVjHZq4xm
+[2025-06-30] 10:43:13 INFO     Успешно отправлен документ <paymentDocument> № 9036, референс 8teceYbfYMGVwxFwhZzko9FiyHfHaZsFVjHZq4xm
+[2025-06-30] 10:43:16 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:43:16 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-30] 10:43:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9037.0, референс umAitoxFhQ91dqgInqhGaTvaY6leVWdWpwbV6thF
+[2025-06-30] 10:43:17 INFO     Пробуем отправить документ, референс umAitoxFhQ91dqgInqhGaTvaY6leVWdWpwbV6thF
+[2025-06-30] 10:43:18 INFO     Успешно отправлен документ <paymentDocument> № 9037.0, референс umAitoxFhQ91dqgInqhGaTvaY6leVWdWpwbV6thF
+[2025-06-30] 10:43:19 INFO     Пробуем отправить запрос <queryDecision> к референсу umAitoxFhQ91dqgInqhGaTvaY6leVWdWpwbV6thF
+[2025-06-30] 10:43:22 INFO     Запрос <queryDecision> успешно отправлен к референсу umAitoxFhQ91dqgInqhGaTvaY6leVWdWpwbV6thF
+[2025-06-30] 10:43:24 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:43:24 INFO     Генерация документа с ФИКС Плательщик

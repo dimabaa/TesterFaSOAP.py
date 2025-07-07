@@ -1,0 +1,10 @@
+[2025-06-16] 16:02:53 INFO     Запуск программы тестирования
+[2025-06-16] 16:02:53 INFO     Читаем url.cfg
+[2025-06-16] 16:02:53 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:02:53 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:02:53 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:02:53 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:02:54 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:02:54 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3442, референс iSloiPLgZREfoMuqqdvloFzQxmZYcQqWyCmGjIXPYWtwQOZWKY
+[2025-06-16] 16:02:54 INFO     Пробуем отправить документ, референс iSloiPLgZREfoMuqqdvloFzQxmZYcQqWyCmGjIXPYWtwQOZWKY
+[2025-06-16] 16:02:55 INFO     Успешно отправлен документ <paymentDocument> № 3442, референс iSloiPLgZREfoMuqqdvloFzQxmZYcQqWyCmGjIXPYWtwQOZWKY

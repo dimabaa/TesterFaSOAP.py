@@ -1,0 +1,8 @@
+[2025-06-30] 10:46:00 INFO     Запуск программы тестирования
+[2025-06-30] 10:46:00 INFO     Читаем url.cfg
+[2025-06-30] 10:46:00 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:46:00 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:46:00 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:46:00 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:46:03 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:46:03 INFO     Генерация документа с ФИКС Плательщик

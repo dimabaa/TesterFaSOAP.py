@@ -1,0 +1,24 @@
+[2025-07-04] 11:17:03 INFO     Запуск программы тестирования
+[2025-07-04] 11:17:03 INFO     Читаем url.cfg
+[2025-07-04] 11:17:03 INFO     Читаем Template_decision.xml
+[2025-07-04] 11:17:03 INFO     Читаем Template_queryDecision.xml
+[2025-07-04] 11:17:03 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-04] 11:17:03 INFO     Читаем Template_incomingDocument.xml
+[2025-07-04] 11:17:03 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-04] 11:17:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9377, референс cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:22 INFO     Пробуем отправить документ, референс cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:24 INFO     Успешно отправлен документ <paymentDocument> № 9377, референс cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:27 INFO     Пробуем отправить запрос <decision> к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:27 INFO     Запрос <decision> успешно отправлен к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:28 INFO     Пробуем отправить запрос <checkDocumentRequest> к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:28 INFO     Запрос <checkDocumentRequest> успешно отправлен к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:32 INFO     Пробуем отправить запрос <decision> к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:33 INFO     Запрос <decision> успешно отправлен к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:36 INFO     Пробуем отправить запрос <decision> к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:36 INFO     Запрос <decision> успешно отправлен к референсу cDBnkF7bqiPMwlXJwzRghxIznuReZ31ew8K3TWys
+[2025-07-04] 11:17:40 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 372, референс aE5iSjHUFhf6rhcoDbpLw8ItWnSocnd2FS0yHT1F
+[2025-07-04] 11:17:40 INFO     Пробуем отправить документ, референс aE5iSjHUFhf6rhcoDbpLw8ItWnSocnd2FS0yHT1F
+[2025-07-04] 11:17:41 INFO     Успешно отправлен документ <paymentDocument> № 372, референс aE5iSjHUFhf6rhcoDbpLw8ItWnSocnd2FS0yHT1F
+[2025-07-04] 11:17:54 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8485, референс ucOM441yVClDizJcHFThTPmlsuE1NRMde4robn0t
+[2025-07-04] 11:17:54 INFO     Пробуем отправить документ, референс ucOM441yVClDizJcHFThTPmlsuE1NRMde4robn0t
+[2025-07-04] 11:17:55 INFO     Успешно отправлен документ <paymentDocument> № 8485, референс ucOM441yVClDizJcHFThTPmlsuE1NRMde4robn0t

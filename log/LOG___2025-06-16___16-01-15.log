@@ -1,0 +1,10 @@
+[2025-06-16] 16:01:15 INFO     Запуск программы тестирования
+[2025-06-16] 16:01:15 INFO     Читаем url.cfg
+[2025-06-16] 16:01:15 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:01:15 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:01:15 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:01:15 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:01:16 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:01:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7209, референс FUekBCNRJacqKNQvNipQSmkZqvKSnxRZZgmfEciDPXauaHzwby
+[2025-06-16] 16:01:17 INFO     Пробуем отправить документ, референс FUekBCNRJacqKNQvNipQSmkZqvKSnxRZZgmfEciDPXauaHzwby
+[2025-06-16] 16:01:18 INFO     Успешно отправлен документ <paymentDocument> № 7209, референс FUekBCNRJacqKNQvNipQSmkZqvKSnxRZZgmfEciDPXauaHzwby

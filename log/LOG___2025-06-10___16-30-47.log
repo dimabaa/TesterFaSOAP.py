@@ -1,0 +1,26 @@
+[2025-06-10] 16:30:47 INFO     Запуск программы тестирования
+[2025-06-10] 16:30:47 INFO     Читаем url.cfg
+[2025-06-10] 16:30:47 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:30:47 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:30:47 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:30:47 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:30:49 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:49 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7973, референс JyKrsSNhlpkNVgZcXwBJIcewDRsHKuFTeKzbPvKwOHgTWJKHNs
+[2025-06-10] 16:30:51 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6319, референс ntQGuCkfycRVnDZlmHvOkgJaCBZIoGigKAMsvPfwbyDRPLNlgh
+[2025-06-10] 16:30:51 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 109, референс eUkPRaHoJuuAeQhlospusidxfusodpUcNxrjmyVzDRWkYtvTJO
+[2025-06-10] 16:30:52 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:52 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9428, референс rDDOkaNFgiBMRMpghOboOmhEHMLMHgzWudVrFlBmnhycAfFciX
+[2025-06-10] 16:30:53 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7369, референс YfRDctpMjmOKNUdlyRvbUIqoQZPrztEqtdtcbDTOWfDIrMOYkm
+[2025-06-10] 16:30:55 INFO     Пробуем отправить документ, референс YfRDctpMjmOKNUdlyRvbUIqoQZPrztEqtdtcbDTOWfDIrMOYkm
+[2025-06-10] 16:30:56 INFO     Успешно отправлен документ <paymentDocument> № 7369, референс YfRDctpMjmOKNUdlyRvbUIqoQZPrztEqtdtcbDTOWfDIrMOYkm
+[2025-06-10] 16:30:57 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:30:57 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6758, референс SakWIGnRxkImORjiYtavdxzLxogGKgHxIJHRRHcXogFExGvHWE
+[2025-06-10] 16:30:59 INFO     Пробуем отправить документ, референс SakWIGnRxkImORjiYtavdxzLxogGKgHxIJHRRHcXogFExGvHWE
+[2025-06-10] 16:31:00 INFO     Успешно отправлен документ <paymentDocument> № 6758, референс SakWIGnRxkImORjiYtavdxzLxogGKgHxIJHRRHcXogFExGvHWE
+[2025-06-10] 16:31:01 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:31:01 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6619, референс AlqClwBKpdwRbhVGCEdomDMKdbJPFJhXPKFdPSEgtllfCxUiVD
+[2025-06-10] 16:31:02 INFO     Пробуем отправить документ, референс AlqClwBKpdwRbhVGCEdomDMKdbJPFJhXPKFdPSEgtllfCxUiVD
+[2025-06-10] 16:31:03 INFO     Успешно отправлен документ <paymentDocument> № 6619, референс AlqClwBKpdwRbhVGCEdomDMKdbJPFJhXPKFdPSEgtllfCxUiVD

@@ -1,0 +1,13 @@
+[2025-07-03] 11:37:07 INFO     Запуск программы тестирования
+[2025-07-03] 11:37:07 INFO     Читаем url.cfg
+[2025-07-03] 11:37:07 INFO     Читаем Template_decision.xml
+[2025-07-03] 11:37:07 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 11:37:07 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 11:37:07 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 11:37:07 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 11:37:09 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6911, референс x0exX8lmcIljRluURUW8GwBz4GuhP6VSXzZwiw9C
+[2025-07-03] 11:37:09 INFO     Пробуем отправить документ, референс x0exX8lmcIljRluURUW8GwBz4GuhP6VSXzZwiw9C
+[2025-07-03] 11:37:10 INFO     Успешно отправлен документ <paymentDocument> № 6911, референс x0exX8lmcIljRluURUW8GwBz4GuhP6VSXzZwiw9C
+[2025-07-03] 11:38:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4290, референс dstfxgHsabVrngP8d91j3avxlg3bV6ua15ghPDPf
+[2025-07-03] 11:38:17 INFO     Пробуем отправить документ, референс dstfxgHsabVrngP8d91j3avxlg3bV6ua15ghPDPf
+[2025-07-03] 11:38:18 INFO     Успешно отправлен документ <paymentDocument> № 4290, референс dstfxgHsabVrngP8d91j3avxlg3bV6ua15ghPDPf

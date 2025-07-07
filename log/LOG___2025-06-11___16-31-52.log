@@ -1,0 +1,16 @@
+[2025-06-11] 16:31:52 INFO     Запуск программы тестирования
+[2025-06-11] 16:31:52 INFO     Читаем url.cfg
+[2025-06-11] 16:31:52 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:31:52 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:31:52 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:31:52 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:31:56 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:31:56 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5506, референс xWSZpmqxNZOsjaocPoaVtOIxSAcbOGvOTEbZbmlPdTQpbYzYyJ
+[2025-06-11] 16:31:57 INFO     Пробуем отправить документ, референс xWSZpmqxNZOsjaocPoaVtOIxSAcbOGvOTEbZbmlPdTQpbYzYyJ
+[2025-06-11] 16:32:03 INFO     Успешно отправлен документ <paymentDocument> № 5506, референс xWSZpmqxNZOsjaocPoaVtOIxSAcbOGvOTEbZbmlPdTQpbYzYyJ
+[2025-06-11] 16:32:08 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:32:08 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 966, референс NjqYlqyfmeksUBeATtXJEwaCKLTRUjfddWREAkuRUFdRWKjaOh
+[2025-06-11] 16:32:09 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:32:09 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6742, референс qjtCKlgyBvSbzqJKqdyXtdNCmgQyJkBVJGyanozxInRapKCoYx
+[2025-06-11] 16:32:11 INFO     Пробуем отправить документ, референс qjtCKlgyBvSbzqJKqdyXtdNCmgQyJkBVJGyanozxInRapKCoYx
+[2025-06-11] 16:32:13 INFO     Успешно отправлен документ <paymentDocument> № 6742, референс qjtCKlgyBvSbzqJKqdyXtdNCmgQyJkBVJGyanozxInRapKCoYx

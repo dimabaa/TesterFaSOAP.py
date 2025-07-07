@@ -1,0 +1,47 @@
+[2025-06-10] 16:28:11 INFO     Запуск программы тестирования
+[2025-06-10] 16:28:11 INFO     Читаем url.cfg
+[2025-06-10] 16:28:11 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:28:11 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:28:11 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:28:11 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:28:12 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:28:12 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9294, референс XwUrZDkdFvlaSzwwErgkcDIKiNwBesdHoqwISxaaVNwsnhXNbD
+[2025-06-10] 16:28:12 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 9294, референс XwUrZDkdFvlaSzwwErgkcDIKiNwBesdHoqwISxaaVNwsnhXNbD
+[2025-06-10] 16:28:17 INFO     Пробуем отправить документ, референс XwUrZDkdFvlaSzwwErgkcDIKiNwBesdHoqwISxaaVNwsnhXNbD
+[2025-06-10] 16:28:18 INFO     Успешно отправлен документ <paymentDocument> № 9294, референс XwUrZDkdFvlaSzwwErgkcDIKiNwBesdHoqwISxaaVNwsnhXNbD
+[2025-06-10] 16:29:34 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:34 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5976, референс HdpgtCzsxfIFRUsNtoPqDzxVZRUnLyFzCQKDOgaJvPjQCLljCT
+[2025-06-10] 16:29:35 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:35 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3090, референс WPAAkDtkMSxgMguboqWNTOiXxVJYavnJGMjICqdGyUMfDTIQrm
+[2025-06-10] 16:29:36 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:37 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6374, референс PnijsWHRIQOkfnlkxtfQlxyOmSAWUOEwShKBDrTZCZfrJFxSDA
+[2025-06-10] 16:29:37 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:37 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2084, референс zMBRMjltjkjCFFwGreKdTKVIIJxSQMmlsDjqWFCgPlCVeSLxIZ
+[2025-06-10] 16:29:38 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:38 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1931, референс fuoXUzosMOHEpaXSBEpRqADdphLLZyZmyAaNOiGfJvvrnohESO
+[2025-06-10] 16:29:39 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:39 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6200, референс kQzGsNlRPdHQRuGcHGkERUtNlysOMvhYYyLgppJHwCHtuPVBpN
+[2025-06-10] 16:29:39 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:39 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2898, референс scdefTjAnWKCkhPvHsJnKPTZVzZuzAaLaJeEAwQZxJlLgrVIdc
+[2025-06-10] 16:29:39 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:39 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5766, референс hqiLsgDqIIZjTIeIYubLAynupMkOTvsLFxwvgwKVgGcPKtzbLL
+[2025-06-10] 16:29:40 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:40 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 678, референс zgsYMltOmXrMXYpDYGrVsXgfmsnzstvLJpKpNtEQAGKbtbQNGc
+[2025-06-10] 16:29:40 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:40 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1273, референс FfoPZgMYLZbjqtaCpKooOPYTkmawLALenemUvvGESZGinDqJpu
+[2025-06-10] 16:29:40 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:40 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9933, референс iWPQXwNoJkuzEDCWckaLNMrADKIURehBqtbbEgNrkmzdYDJCfU
+[2025-06-10] 16:29:41 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:41 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5039, референс kISZAnPCpKwIMtCcUbCsaKXkvvDxcXyNFsXYOefGgHpurpqELT
+[2025-06-10] 16:29:41 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:41 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4459, референс whdutiJLJZEMZUHgcRnoXkhYEzMKxoDDuQJhqZQhQFATaknKYj
+[2025-06-10] 16:29:41 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:41 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9223, референс tultibpkRnSnSrHckblxSxlDMHCxtlGKPmhACInVTrKRAOgkMq
+[2025-06-10] 16:29:41 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:41 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1802, референс OvLJdmavkkqpakZkyrPOxuMajnpUZyVZSRUFDgjorrEfoEgJey
+[2025-06-10] 16:29:41 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:41 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2779, референс qCqouuQkTfxUTQrtdduXXMDVGuGzlLglFUZtICqilNUDQjhGMG
+[2025-06-10] 16:29:42 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:42 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7718, референс IpigEMllgXCeHTRKzUlxeZxezClzTRbngtzgCvDzEAeGntujXG
+[2025-06-10] 16:29:42 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:29:42 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2345, референс LOKitYBBjMerQiSNfsGNnlyIXcMoOkJbPIzaaAkfkPizZPExBG

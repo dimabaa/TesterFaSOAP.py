@@ -1,0 +1,22 @@
+[2025-06-17] 11:34:13 INFO     Запуск программы тестирования
+[2025-06-17] 11:34:13 INFO     Читаем url.cfg
+[2025-06-17] 11:34:13 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:34:13 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:34:13 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:34:13 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:34:15 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:34:15 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5496, референс YikJUrYfdYflrkLpNruSBBydKkgwFqmZOkIzFMAeAKbVRmRQKD
+[2025-06-17] 11:34:15 INFO     Пробуем отправить документ, референс YikJUrYfdYflrkLpNruSBBydKkgwFqmZOkIzFMAeAKbVRmRQKD
+[2025-06-17] 11:34:17 INFO     Успешно отправлен документ <paymentDocument> № 5496, референс YikJUrYfdYflrkLpNruSBBydKkgwFqmZOkIzFMAeAKbVRmRQKD
+[2025-06-17] 11:34:25 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:34:25 INFO     Сгенерирован новый ВХОДЯЩИЙ документ № 7127, референс yhHliTIDxplQVdctilyVaILKLFMsleOKPQjmcfwTcGtefWcJQh
+[2025-06-17] 11:34:25 INFO     Пробуем отправить документ, референс yhHliTIDxplQVdctilyVaILKLFMsleOKPQjmcfwTcGtefWcJQh
+[2025-06-17] 11:34:26 INFO     Успешно отправлен документ <incomingDocument> № 7127, референс yhHliTIDxplQVdctilyVaILKLFMsleOKPQjmcfwTcGtefWcJQh
+[2025-06-17] 11:34:31 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:34:31 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1324, референс KlgoaReNLvDIPitmibWpaCVCwoWZKbbaSSGYslifLhAYAGpZYp
+[2025-06-17] 11:34:33 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:34:33 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7570, референс OBMqmZDQQiYpaiFPpmFtRhfPIdMQrUQAyunoxHzifEYTVzDJgY
+[2025-06-17] 11:34:34 INFO     Пробуем отправить документ, референс OBMqmZDQQiYpaiFPpmFtRhfPIdMQrUQAyunoxHzifEYTVzDJgY
+[2025-06-17] 11:34:35 INFO     Успешно отправлен документ <paymentDocument> № 7570, референс OBMqmZDQQiYpaiFPpmFtRhfPIdMQrUQAyunoxHzifEYTVzDJgY
+[2025-06-17] 11:34:48 INFO     Пробуем отправить запрос <queryDecision> к референсу OBMqmZDQQiYpaiFPpmFtRhfPIdMQrUQAyunoxHzifEYTVzDJgY
+[2025-06-17] 11:34:48 INFO     Запрос <queryDecision> успешно отправлен к референсу OBMqmZDQQiYpaiFPpmFtRhfPIdMQrUQAyunoxHzifEYTVzDJgY

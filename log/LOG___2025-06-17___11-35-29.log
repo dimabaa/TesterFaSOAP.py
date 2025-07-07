@@ -1,0 +1,14 @@
+[2025-06-17] 11:35:29 INFO     Запуск программы тестирования
+[2025-06-17] 11:35:29 INFO     Читаем url.cfg
+[2025-06-17] 11:35:29 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:35:29 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:35:29 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:35:29 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:35:31 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:35:31 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9414, референс sODMJEMIhBJEdIrwIKoLIcgKPNMwYNTJLSWRjIJAADPlWEeaFE
+[2025-06-17] 11:35:31 INFO     Пробуем отправить документ, референс sODMJEMIhBJEdIrwIKoLIcgKPNMwYNTJLSWRjIJAADPlWEeaFE
+[2025-06-17] 11:35:32 INFO     Успешно отправлен документ <paymentDocument> № 9414, референс sODMJEMIhBJEdIrwIKoLIcgKPNMwYNTJLSWRjIJAADPlWEeaFE
+[2025-06-17] 11:35:36 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:35:37 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9425, референс xZFlVApsQOfexsefIGUCpnMCndVOgOBvGtAQpFydyjMukwnQbc
+[2025-06-17] 11:35:37 INFO     Пробуем отправить документ, референс xZFlVApsQOfexsefIGUCpnMCndVOgOBvGtAQpFydyjMukwnQbc
+[2025-06-17] 11:35:38 INFO     Успешно отправлен документ <paymentDocument> № 9425, референс xZFlVApsQOfexsefIGUCpnMCndVOgOBvGtAQpFydyjMukwnQbc

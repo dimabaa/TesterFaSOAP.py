@@ -1,0 +1,100 @@
+[2025-06-10] 17:10:15 INFO     Запуск программы тестирования
+[2025-06-10] 17:10:15 INFO     Читаем url.cfg
+[2025-06-10] 17:10:15 INFO     Читаем Template_decision.xml
+[2025-06-10] 17:10:15 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 17:10:15 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 17:10:15 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 17:10:17 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:10:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8930, референс AgnWqISeOhAoVImgMRtYNgvPGkQZGzDlQoqzCDMcKgcecZRnYg
+[2025-06-10] 17:10:18 INFO     Пробуем отправить документ, референс AgnWqISeOhAoVImgMRtYNgvPGkQZGzDlQoqzCDMcKgcecZRnYg
+[2025-06-10] 17:10:19 INFO     Успешно отправлен документ <paymentDocument> № 8930, референс AgnWqISeOhAoVImgMRtYNgvPGkQZGzDlQoqzCDMcKgcecZRnYg
+[2025-06-10] 17:10:33 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:10:33 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4251, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:10:34 INFO     Пробуем отправить документ, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:10:35 INFO     Успешно отправлен документ <paymentDocument> № 4251, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:10:48 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 4251, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:10:50 INFO     Пробуем отправить документ, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:10:50 INFO     Успешно отправлен документ <paymentDocument> № 4251, референс TZzvhuBsiekjEiRbtjSqZHLxTGuecirbLzvVSxrRolGKHizRyH
+[2025-06-10] 17:11:45 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:11:45 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:11:45 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 852, референс DFBpLTBSuEmdzTqfCvAcjlUooXaImPKgdyTtzGMmjkiRvrOdGZ
+[2025-06-10] 17:11:46 INFO     Пробуем отправить документ, референс DFBpLTBSuEmdzTqfCvAcjlUooXaImPKgdyTtzGMmjkiRvrOdGZ
+[2025-06-10] 17:11:47 INFO     Успешно отправлен документ <paymentDocument> № 852, референс DFBpLTBSuEmdzTqfCvAcjlUooXaImPKgdyTtzGMmjkiRvrOdGZ
+[2025-06-10] 17:11:48 INFO     Пробуем отправить документ, референс DFBpLTBSuEmdzTqfCvAcjlUooXaImPKgdyTtzGMmjkiRvrOdGZ
+[2025-06-10] 17:11:48 INFO     Успешно отправлен документ <paymentDocument> № 852, референс DFBpLTBSuEmdzTqfCvAcjlUooXaImPKgdyTtzGMmjkiRvrOdGZ
+[2025-06-10] 17:11:51 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:11:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9989, референс ORtQoZHTfsLpEOcqiMdmzPOxSDZWuadHHGprkdPJAlFKHHMpWZ
+[2025-06-10] 17:11:53 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:11:53 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:11:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6386, референс DZoMonFSlMORbsjHMVEDflIHgNQlhhpgNxYMNapPvAwiAFdGpU
+[2025-06-10] 17:11:55 INFO     Пробуем отправить документ, референс DZoMonFSlMORbsjHMVEDflIHgNQlhhpgNxYMNapPvAwiAFdGpU
+[2025-06-10] 17:11:56 INFO     Успешно отправлен документ <paymentDocument> № 6386, референс DZoMonFSlMORbsjHMVEDflIHgNQlhhpgNxYMNapPvAwiAFdGpU
+[2025-06-10] 17:11:58 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:11:58 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:11:58 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 182, референс ZPAgHcJcSMpJAunUBJsYsdSGGkdUkHzDrEWnlJxwPVCjxuAQsG
+[2025-06-10] 17:12:00 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:00 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:12:00 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2510, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:01 INFO     Пробуем отправить документ, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:02 INFO     Успешно отправлен документ <paymentDocument> № 2510, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:03 INFO     Пробуем отправить документ, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:03 INFO     Успешно отправлен документ <paymentDocument> № 2510, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:04 INFO     Пробуем отправить документ, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:05 INFO     Успешно отправлен документ <paymentDocument> № 2510, референс dIrfAAefXZBXdObwLBLRPltrVkkccaRUvHwygQurkRsZfUGTGV
+[2025-06-10] 17:12:06 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:06 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:12:06 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5262, референс ybHIxbRXvKTYWZgOxyUjXgxbiQViwSMkyKvqHTmWYtubpIvfOt
+[2025-06-10] 17:12:06 INFO     Пробуем отправить документ, референс ybHIxbRXvKTYWZgOxyUjXgxbiQViwSMkyKvqHTmWYtubpIvfOt
+[2025-06-10] 17:12:07 INFO     Успешно отправлен документ <paymentDocument> № 5262, референс ybHIxbRXvKTYWZgOxyUjXgxbiQViwSMkyKvqHTmWYtubpIvfOt
+[2025-06-10] 17:12:08 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:08 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:12:08 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6165, референс SCMNRJVybdabZKWelcqVyTexAMkGfYgavoNQUhyQeCznQDXwJz
+[2025-06-10] 17:12:09 INFO     Пробуем отправить документ, референс SCMNRJVybdabZKWelcqVyTexAMkGfYgavoNQUhyQeCznQDXwJz
+[2025-06-10] 17:12:10 INFO     Успешно отправлен документ <paymentDocument> № 6165, референс SCMNRJVybdabZKWelcqVyTexAMkGfYgavoNQUhyQeCznQDXwJz
+[2025-06-10] 17:12:10 INFO     Пробуем отправить документ, референс SCMNRJVybdabZKWelcqVyTexAMkGfYgavoNQUhyQeCznQDXwJz
+[2025-06-10] 17:12:11 INFO     Успешно отправлен документ <paymentDocument> № 6165, референс SCMNRJVybdabZKWelcqVyTexAMkGfYgavoNQUhyQeCznQDXwJz
+[2025-06-10] 17:12:17 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:17 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 17:12:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9607, референс MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:12:18 INFO     Пробуем отправить документ, референс MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:12:19 INFO     Успешно отправлен документ <paymentDocument> № 9607, референс MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:12:20 INFO     Пробуем отправить запрос <queryDecision> к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:12:21 INFO     Запрос <queryDecision> успешно отправлен к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:12:57 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:57 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4007, референс BTKYNroqUiEckTBhxZqLMXaImZHJwZXMVnBJKYRHpPDqdtwOOu
+[2025-06-10] 17:12:58 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:58 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5504, референс DZKfFHAnFHJWyQQDooAuZntnNwqJxUuBVLvenuvAxRjKAKfeen
+[2025-06-10] 17:12:58 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1300, референс xxfDcqvKYtlcsKTnjLyVTJmRCegvxKpczkqThdADkZlkVxOGjF
+[2025-06-10] 17:12:59 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2164, референс tQpoLDZLMZZHFpMPOuJJNuaquBKINuHpCPFTkPcXIhjEsXcwsl
+[2025-06-10] 17:12:59 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:12:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2226, референс xDpwMWIFArYfwZrhRFwtHdySMWTTTQQGfpoMxoqADvbtztIkiA
+[2025-06-10] 17:13:34 INFO     Пробуем отправить запрос <decision> к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:13:34 INFO     Запрос <decision> успешно отправлен к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:13:36 INFO     Пробуем отправить запрос <queryDecision> к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:13:37 INFO     Запрос <queryDecision> успешно отправлен к референсу MpBvbhlroaLUhENlSTgRQbAtzrpEmcfMrnkbgAuuSUfMKCVgYF
+[2025-06-10] 17:13:58 INFO     Пробуем отправить документ, референс 
+[2025-06-10] 17:13:59 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-10] 17:13:59 INFO     Пробуем отправить документ, референс 
+[2025-06-10] 17:13:59 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-10] 17:13:59 INFO     Пробуем отправить документ, референс 
+[2025-06-10] 17:13:59 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-10] 17:13:59 INFO     Пробуем отправить документ, референс 
+[2025-06-10] 17:13:59 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-10] 17:14:00 INFO     Пробуем отправить документ, референс 
+[2025-06-10] 17:14:00 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-10] 17:14:14 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:14:14 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7629, референс FvCmNmwuAXZcNiCwQmgQpcQDLmJfHkmTqZkiyFXiyAemXlpHlq
+[2025-06-10] 17:14:14 INFO     Пробуем отправить документ, референс FvCmNmwuAXZcNiCwQmgQpcQDLmJfHkmTqZkiyFXiyAemXlpHlq
+[2025-06-10] 17:14:15 INFO     Успешно отправлен документ <paymentDocument> № 7629, референс FvCmNmwuAXZcNiCwQmgQpcQDLmJfHkmTqZkiyFXiyAemXlpHlq
+[2025-06-10] 17:14:18 INFO     Пробуем отправить документ, референс FvCmNmwuAXZcNiCwQmgQpcQDLmJfHkmTqZkiyFXiyAemXlpHlq
+[2025-06-10] 17:14:18 INFO     Успешно отправлен документ <paymentDocument> № 7629, референс FvCmNmwuAXZcNiCwQmgQpcQDLmJfHkmTqZkiyFXiyAemXlpHlq
+[2025-06-10] 17:14:21 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:14:21 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8325, референс qQcjyKNnuaYXfyMQFDdqFedpLCmNlzhjuKXsNQkBxJmCqpNGIe
+[2025-06-10] 17:14:21 INFO     Пробуем отправить документ, референс qQcjyKNnuaYXfyMQFDdqFedpLCmNlzhjuKXsNQkBxJmCqpNGIe
+[2025-06-10] 17:14:22 INFO     Успешно отправлен документ <paymentDocument> № 8325, референс qQcjyKNnuaYXfyMQFDdqFedpLCmNlzhjuKXsNQkBxJmCqpNGIe
+[2025-06-10] 17:14:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 17:14:24 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7707, референс ZmTpuHmRMaFhUYbUFFWMtEGQBmpQLywHTMfHduHGlOqsmCzfiA
+[2025-06-10] 17:14:24 INFO     Пробуем отправить документ, референс ZmTpuHmRMaFhUYbUFFWMtEGQBmpQLywHTMfHduHGlOqsmCzfiA
+[2025-06-10] 17:14:25 INFO     Успешно отправлен документ <paymentDocument> № 7707, референс ZmTpuHmRMaFhUYbUFFWMtEGQBmpQLywHTMfHduHGlOqsmCzfiA

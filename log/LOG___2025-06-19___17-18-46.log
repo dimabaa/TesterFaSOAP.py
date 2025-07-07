@@ -1,0 +1,14 @@
+[2025-06-19] 17:18:46 INFO     Запуск программы тестирования
+[2025-06-19] 17:18:46 INFO     Читаем url.cfg
+[2025-06-19] 17:18:46 INFO     Читаем Template_decision.xml
+[2025-06-19] 17:18:46 INFO     Читаем Template_queryDecision.xml
+[2025-06-19] 17:18:46 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-19] 17:18:46 INFO     Читаем Template_incomingDocument.xml
+[2025-06-19] 17:18:47 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:18:47 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1254, референс SBQayCjMSbzyCSsgxQQyfCGJEuMZNuwjmQImwaBPHvbHqKAHHt
+[2025-06-19] 17:18:47 INFO     Пробуем отправить документ, референс SBQayCjMSbzyCSsgxQQyfCGJEuMZNuwjmQImwaBPHvbHqKAHHt
+[2025-06-19] 17:18:48 INFO     Успешно отправлен документ <paymentDocument> № 1254, референс SBQayCjMSbzyCSsgxQQyfCGJEuMZNuwjmQImwaBPHvbHqKAHHt
+[2025-06-19] 17:18:53 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:18:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4871, референс LnPASKAOGdMiUwKZvunonQADzoJQQPvKFnWHPDLQRHUYgUjtiV
+[2025-06-19] 17:18:53 INFO     Пробуем отправить документ, референс LnPASKAOGdMiUwKZvunonQADzoJQQPvKFnWHPDLQRHUYgUjtiV
+[2025-06-19] 17:18:54 INFO     Успешно отправлен документ <paymentDocument> № 4871, референс LnPASKAOGdMiUwKZvunonQADzoJQQPvKFnWHPDLQRHUYgUjtiV

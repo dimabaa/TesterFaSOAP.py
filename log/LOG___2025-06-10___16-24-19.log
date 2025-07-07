@@ -1,0 +1,24 @@
+[2025-06-10] 16:24:19 INFO     Запуск программы тестирования
+[2025-06-10] 16:24:19 INFO     Читаем url.cfg
+[2025-06-10] 16:24:19 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:24:19 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:24:19 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:24:19 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:24:22 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2453, референс rowjUhARUylDVEQGRnnfWhaItuHnzOQPUpZmCUaAcSYeJcwkqP
+[2025-06-10] 16:24:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:23 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9390, референс jtRrLhMZcWsreyZKSVcSzkgHXSJbOHXqFdppxppysDMonjEpks
+[2025-06-10] 16:24:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:23 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 91, референс ZWYUWfhoMWlfRLXRpjzMHmsWrIVrZkBXxTgbPhRHypbjxhNkjj
+[2025-06-10] 16:24:24 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:24 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 594, референс efiYTVFAMVhxTIkhhQcBUUKcNoATTwOnFqRmraWfKUbTKjSKCo
+[2025-06-10] 16:24:24 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:24 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8830, референс mAxHbBMOIwZXGpQedTaLQWaPsDCKRuIYCzbvCJuuFgFIJSablO
+[2025-06-10] 16:24:25 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:25 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9137, референс xDqFYHcUQfNLYkxFhjQQYgmoxamrfuStHefLAziqnloVOZrqRn
+[2025-06-10] 16:24:26 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:26 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4042, референс cJpvMYmhlcWAqWFozjZdIDJIDkximDoGSYpwUReVgrlZAYtWka
+[2025-06-10] 16:24:26 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:26 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9442, референс bAkLDYbGKuZXXChAMQkrMVsHlndDwwjNHIxybTAslmHrhYlGZO
+[2025-06-10] 16:24:27 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:24:27 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 108, референс jiCnnULEZPJOKAogmYpsUAbsnOWLCVERJxyrtcRHAzyQbuhUBb

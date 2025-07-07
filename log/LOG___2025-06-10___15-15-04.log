@@ -1,0 +1,22 @@
+[2025-06-10] 15:15:04 INFO     Запуск программы тестирования
+[2025-06-10] 15:15:04 INFO     Читаем url.cfg
+[2025-06-10] 15:15:04 INFO     Читаем Template_decision.xml
+[2025-06-10] 15:15:04 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 15:15:04 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 15:15:04 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 15:15:06 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:15:06 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6501, референс hMkbZTIvrbTOKgfeCHZXQYePxpYiazKQRonbslQaoiEQUpUFIC
+[2025-06-10] 15:15:07 INFO     Пробуем отправить документ, референс hMkbZTIvrbTOKgfeCHZXQYePxpYiazKQRonbslQaoiEQUpUFIC
+[2025-06-10] 15:15:09 INFO     Успешно отправлен документ <paymentDocument> № 6501, референс hMkbZTIvrbTOKgfeCHZXQYePxpYiazKQRonbslQaoiEQUpUFIC
+[2025-06-10] 15:15:11 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:15:11 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1444, референс fYZsBgxnoIFHyJIcVwwbLqcFtcVZHawHPqaLBkVKbdOiOpOMer
+[2025-06-10] 15:15:12 INFO     Пробуем отправить документ, референс fYZsBgxnoIFHyJIcVwwbLqcFtcVZHawHPqaLBkVKbdOiOpOMer
+[2025-06-10] 15:15:13 INFO     Успешно отправлен документ <paymentDocument> № 1444, референс fYZsBgxnoIFHyJIcVwwbLqcFtcVZHawHPqaLBkVKbdOiOpOMer
+[2025-06-10] 15:15:14 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:15:14 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7664, референс kTDGahvTwudBjsIZvzZDoNgXEFVapNwnwIgXgeiCmVoIqpfxwp
+[2025-06-10] 15:15:14 INFO     Пробуем отправить документ, референс kTDGahvTwudBjsIZvzZDoNgXEFVapNwnwIgXgeiCmVoIqpfxwp
+[2025-06-10] 15:15:15 INFO     Успешно отправлен документ <paymentDocument> № 7664, референс kTDGahvTwudBjsIZvzZDoNgXEFVapNwnwIgXgeiCmVoIqpfxwp
+[2025-06-10] 15:15:17 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:15:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1737, референс SNmJTeKLhwRWgDSuKTzoNuIidNwGnZfqzsBNDkxDXSIsdSDrIt
+[2025-06-10] 15:15:18 INFO     Пробуем отправить документ, референс SNmJTeKLhwRWgDSuKTzoNuIidNwGnZfqzsBNDkxDXSIsdSDrIt
+[2025-06-10] 15:15:19 INFO     Успешно отправлен документ <paymentDocument> № 1737, референс SNmJTeKLhwRWgDSuKTzoNuIidNwGnZfqzsBNDkxDXSIsdSDrIt

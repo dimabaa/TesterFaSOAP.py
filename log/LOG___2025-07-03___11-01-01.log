@@ -1,0 +1,10 @@
+[2025-07-03] 11:01:01 INFO     Запуск программы тестирования
+[2025-07-03] 11:01:01 INFO     Читаем url.cfg
+[2025-07-03] 11:01:01 INFO     Читаем Template_decision.xml
+[2025-07-03] 11:01:01 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 11:01:01 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 11:01:01 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 11:01:01 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 11:01:03 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2512, референс YsR6KHRfafETlQkFc4fLbiHDCzc2EQ43z3AQM9e6
+[2025-07-03] 11:01:04 INFO     Пробуем отправить документ, референс YsR6KHRfafETlQkFc4fLbiHDCzc2EQ43z3AQM9e6
+[2025-07-03] 11:01:05 INFO     Успешно отправлен документ <paymentDocument> № 2512, референс YsR6KHRfafETlQkFc4fLbiHDCzc2EQ43z3AQM9e6

@@ -1,0 +1,22 @@
+[2025-06-10] 16:11:08 INFO     Запуск программы тестирования
+[2025-06-10] 16:11:08 INFO     Читаем url.cfg
+[2025-06-10] 16:11:08 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:11:08 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:11:08 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:11:08 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:11:09 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:11:09 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6746, референс FSyTZOCkbJGKmsuhnJvWXsTWfMTHLhbwrzzMVYygVuYSSOHPRW
+[2025-06-10] 16:11:10 INFO     Пробуем отправить документ, референс FSyTZOCkbJGKmsuhnJvWXsTWfMTHLhbwrzzMVYygVuYSSOHPRW
+[2025-06-10] 16:11:10 INFO     Успешно отправлен документ <paymentDocument> № 6746, референс FSyTZOCkbJGKmsuhnJvWXsTWfMTHLhbwrzzMVYygVuYSSOHPRW
+[2025-06-10] 16:11:10 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:11:11 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5194, референс xOoWdZEdwfLawgjCDSxghPjaETuuQTQqjpCAXWRYzIkekzcEHW
+[2025-06-10] 16:11:11 INFO     Пробуем отправить документ, референс xOoWdZEdwfLawgjCDSxghPjaETuuQTQqjpCAXWRYzIkekzcEHW
+[2025-06-10] 16:11:12 INFO     Успешно отправлен документ <paymentDocument> № 5194, референс xOoWdZEdwfLawgjCDSxghPjaETuuQTQqjpCAXWRYzIkekzcEHW
+[2025-06-10] 16:11:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:11:23 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4523, референс TxUyfEnyfUKUjMdruAUTtUUlepewiFToRMOstAuFWbNZyjqYsz
+[2025-06-10] 16:11:30 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:11:30 INFO     Сгенерирован новый ВХОДЯЩИЙ документ № 7035, референс fxLdhtesJVWxJuEITzPpPvRBBESqsYNlEiVBDXwujiIQtAhVKb
+[2025-06-10] 16:11:30 INFO     Пробуем отправить документ, референс fxLdhtesJVWxJuEITzPpPvRBBESqsYNlEiVBDXwujiIQtAhVKb
+[2025-06-10] 16:11:31 INFO     Успешно отправлен документ <incomingDocument> № 7035, референс fxLdhtesJVWxJuEITzPpPvRBBESqsYNlEiVBDXwujiIQtAhVKb
+[2025-06-10] 16:11:32 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:11:32 INFO     Сгенерирован новый ВХОДЯЩИЙ документ № 5109, референс dQQtkwMRHBdgcUziePaebTjydKRjMZYfhRwFGaWnoXHRYRSYUk

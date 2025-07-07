@@ -1,0 +1,8 @@
+[2025-06-30] 11:07:05 INFO     Запуск программы тестирования
+[2025-06-30] 11:07:05 INFO     Читаем url.cfg
+[2025-06-30] 11:07:05 INFO     Читаем Template_decision.xml
+[2025-06-30] 11:07:05 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 11:07:05 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 11:07:05 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 11:07:05 INFO     Пробуем отправить документ, референс 
+[2025-06-30] 11:07:05 INFO     Успешно отправлен документ <paymentDocument> № , референс 

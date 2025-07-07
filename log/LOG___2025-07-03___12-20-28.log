@@ -1,0 +1,13 @@
+[2025-07-03] 12:20:28 INFO     Запуск программы тестирования
+[2025-07-03] 12:20:28 INFO     Читаем url.cfg
+[2025-07-03] 12:20:28 INFO     Читаем Template_decision.xml
+[2025-07-03] 12:20:28 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 12:20:28 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 12:20:28 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 12:20:28 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 12:20:29 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3727, референс HIPuJH0cyUSrAhl0m2o1H4oseK72UjD3pFydtck2
+[2025-07-03] 12:20:30 INFO     Пробуем отправить документ, референс HIPuJH0cyUSrAhl0m2o1H4oseK72UjD3pFydtck2
+[2025-07-03] 12:20:31 INFO     Успешно отправлен документ <paymentDocument> № 3727, референс HIPuJH0cyUSrAhl0m2o1H4oseK72UjD3pFydtck2
+[2025-07-03] 12:20:43 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8284, референс iI6urOWyk4TbB5pej5GKQcxTUGyTgrV3SFQ06gxY
+[2025-07-03] 12:20:45 INFO     Пробуем отправить документ, референс iI6urOWyk4TbB5pej5GKQcxTUGyTgrV3SFQ06gxY
+[2025-07-03] 12:20:46 INFO     Успешно отправлен документ <paymentDocument> № 8284, референс iI6urOWyk4TbB5pej5GKQcxTUGyTgrV3SFQ06gxY

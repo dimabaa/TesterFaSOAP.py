@@ -1,0 +1,24 @@
+[2025-06-10] 16:16:34 INFO     Запуск программы тестирования
+[2025-06-10] 16:16:34 INFO     Читаем url.cfg
+[2025-06-10] 16:16:34 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:16:34 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:16:34 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:16:34 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:16:36 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:16:36 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5511, референс spraDbfKAHVQgZmEqLFqFbXkACcpaedjqEzRYlmhOAXOuiTuWC
+[2025-06-10] 16:16:37 INFO     Пробуем отправить документ, референс spraDbfKAHVQgZmEqLFqFbXkACcpaedjqEzRYlmhOAXOuiTuWC
+[2025-06-10] 16:16:37 INFO     Успешно отправлен документ <paymentDocument> № 5511, референс spraDbfKAHVQgZmEqLFqFbXkACcpaedjqEzRYlmhOAXOuiTuWC
+[2025-06-10] 16:16:46 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:16:46 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4964, референс MOEAEWIAGDxDqhgQEkSVGAXZzBBhIdgtLJekkDTsTAKkPJoqYe
+[2025-06-10] 16:16:47 INFO     Пробуем отправить документ, референс MOEAEWIAGDxDqhgQEkSVGAXZzBBhIdgtLJekkDTsTAKkPJoqYe
+[2025-06-10] 16:16:48 INFO     Успешно отправлен документ <paymentDocument> № 4964, референс MOEAEWIAGDxDqhgQEkSVGAXZzBBhIdgtLJekkDTsTAKkPJoqYe
+[2025-06-10] 16:16:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:16:50 INFO     Сгенерирован новый ВХОДЯЩИЙ документ № 8874, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:52 INFO     Пробуем отправить документ, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:52 INFO     Успешно отправлен документ <incomingDocument> № 8874, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:57 INFO     Пробуем отправить документ, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:58 INFO     Успешно отправлен документ <incomingDocument> № 8874, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:59 INFO     Пробуем отправить документ, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:59 INFO     Успешно отправлен документ <incomingDocument> № 8874, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:16:59 INFO     Пробуем отправить документ, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO
+[2025-06-10] 16:17:00 INFO     Успешно отправлен документ <incomingDocument> № 8874, референс twgagvackIjvGZczCJuiAytDVxdZqSAHtYdEbRddPzJOnMaFcO

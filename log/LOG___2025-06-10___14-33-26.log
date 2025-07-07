@@ -1,0 +1,10 @@
+[2025-06-10] 14:33:26 INFO     Запуск программы тестирования
+[2025-06-10] 14:33:26 INFO     Читаем url.cfg
+[2025-06-10] 14:33:26 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:33:26 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:33:26 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:33:26 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:33:27 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:33:27 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9465, референс qoLdsDyECgICdYJryOnXhnVISzqgWGSnThvMbmcdCYfqQNAlWI
+[2025-06-10] 14:33:27 INFO     Пробуем отправить документ, референс qoLdsDyECgICdYJryOnXhnVISzqgWGSnThvMbmcdCYfqQNAlWI
+[2025-06-10] 14:33:28 INFO     Успешно отправлен документ <paymentDocument> № 9465, референс qoLdsDyECgICdYJryOnXhnVISzqgWGSnThvMbmcdCYfqQNAlWI

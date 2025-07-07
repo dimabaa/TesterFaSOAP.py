@@ -1,0 +1,19 @@
+[2025-07-03] 11:53:11 INFO     Запуск программы тестирования
+[2025-07-03] 11:53:11 INFO     Читаем url.cfg
+[2025-07-03] 11:53:11 INFO     Читаем Template_decision.xml
+[2025-07-03] 11:53:11 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 11:53:11 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 11:53:11 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 11:53:11 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 11:53:13 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 924, референс QjazW9ohTQOnS8FZfnGbARUAg0shCwm3kozRFpar
+[2025-07-03] 11:53:13 INFO     Пробуем отправить документ, референс QjazW9ohTQOnS8FZfnGbARUAg0shCwm3kozRFpar
+[2025-07-03] 11:53:14 INFO     Успешно отправлен документ <paymentDocument> № 924, референс QjazW9ohTQOnS8FZfnGbARUAg0shCwm3kozRFpar
+[2025-07-03] 11:53:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4888, референс dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:17 INFO     Пробуем отправить документ, референс dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:18 INFO     Успешно отправлен документ <paymentDocument> № 4888, референс dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:19 INFO     Пробуем отправить запрос <queryDecision> к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:19 INFO     Запрос <queryDecision> успешно отправлен к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:33 INFO     Пробуем отправить запрос <decision> к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:33 INFO     Запрос <decision> успешно отправлен к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:39 INFO     Пробуем отправить запрос <checkDocumentRequest> к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h
+[2025-07-03] 11:53:39 INFO     Запрос <checkDocumentRequest> успешно отправлен к референсу dCS8MEP4YxhbABgDTN4bj5XmGwBniLeyEhcW225h

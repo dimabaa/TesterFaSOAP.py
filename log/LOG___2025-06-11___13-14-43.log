@@ -1,0 +1,12 @@
+[2025-06-11] 13:14:43 INFO     Запуск программы тестирования
+[2025-06-11] 13:14:43 INFO     Читаем url.cfg
+[2025-06-11] 13:14:43 INFO     Читаем Template_decision.xml
+[2025-06-11] 13:14:43 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 13:14:43 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 13:14:43 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 13:14:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 13:14:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3338, референс RJcNnUopujwXpDysjLRgjUxeWiQWboMWhoOonCpxYoxJRDJQLI
+[2025-06-11] 13:15:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 13:15:05 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6717, референс PXcswNCCyJSitKWnCsxDuHkIuvypoenNYwDYTMsZGzUBFAmUao
+[2025-06-11] 13:15:05 INFO     Пробуем отправить документ, референс PXcswNCCyJSitKWnCsxDuHkIuvypoenNYwDYTMsZGzUBFAmUao
+[2025-06-11] 13:15:05 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException

@@ -1,0 +1,20 @@
+[2025-06-18] 16:08:54 INFO     Запуск программы тестирования
+[2025-06-18] 16:08:54 INFO     Читаем url.cfg
+[2025-06-18] 16:08:54 INFO     Читаем Template_decision.xml
+[2025-06-18] 16:08:54 INFO     Читаем Template_queryDecision.xml
+[2025-06-18] 16:08:54 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-18] 16:08:54 INFO     Читаем Template_incomingDocument.xml
+[2025-06-18] 16:08:55 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:08:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6191, референс wDFeAiwUAGFDorPWqqWmEVhNRiMiGeyzeHjkYsNwJuLsNQUFXn
+[2025-06-18] 16:08:55 INFO     Документ НЕ сгенерирован, введите ключ активации
+[2025-06-18] 16:09:02 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:09:02 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7206, референс OLklYmULVmPKeOHCxaJNGtHwAQwpkTmPZmMVUqwvPMnleIIdSn
+[2025-06-18] 16:09:02 INFO     Документ НЕ сгенерирован, введите ключ активации
+[2025-06-18] 16:09:03 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:09:03 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 924, референс fCTvMKSpmTtvnmbQhUNpJsyPFYeyCfEQeWxMTuThFlcuopplAh
+[2025-06-18] 16:09:03 INFO     Документ НЕ сгенерирован, введите ключ активации
+[2025-06-18] 16:09:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:09:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1449, референс oUBRckKGHuoDvqNKykZAMkguWYoliqvCLRwtOBBGshWOQUDKhJ
+[2025-06-18] 16:09:04 INFO     Документ НЕ сгенерирован, введите ключ активации
+[2025-06-18] 16:09:06 INFO     Пробуем отправить документ, референс oUBRckKGHuoDvqNKykZAMkguWYoliqvCLRwtOBBGshWOQUDKhJ
+[2025-06-18] 16:09:07 INFO     Успешно отправлен документ <paymentDocument> № 1449, референс oUBRckKGHuoDvqNKykZAMkguWYoliqvCLRwtOBBGshWOQUDKhJ

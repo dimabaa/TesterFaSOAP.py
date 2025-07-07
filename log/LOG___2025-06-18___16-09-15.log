@@ -1,0 +1,9 @@
+[2025-06-18] 16:09:15 INFO     Запуск программы тестирования
+[2025-06-18] 16:09:15 INFO     Читаем url.cfg
+[2025-06-18] 16:09:15 INFO     Читаем Template_decision.xml
+[2025-06-18] 16:09:15 INFO     Читаем Template_queryDecision.xml
+[2025-06-18] 16:09:15 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-18] 16:09:15 INFO     Читаем Template_incomingDocument.xml
+[2025-06-18] 16:09:16 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:09:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7005, референс GOPgsHrnxYUsLLrJoOAZQpTHHGvveZyLghstgqwJTEXgaPmntM
+[2025-06-18] 16:09:17 INFO     Документ НЕ сгенерирован, введите ключ активации

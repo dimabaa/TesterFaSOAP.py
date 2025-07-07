@@ -1,0 +1,10 @@
+[2025-06-16] 15:59:53 INFO     Запуск программы тестирования
+[2025-06-16] 15:59:53 INFO     Читаем url.cfg
+[2025-06-16] 15:59:53 INFO     Читаем Template_decision.xml
+[2025-06-16] 15:59:53 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 15:59:53 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 15:59:53 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 15:59:54 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 15:59:54 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4784, референс MXSOXHltPbNYNxLJQDVSZgedpnbPXvQmSChZyUHJapbEVzoQMe
+[2025-06-16] 15:59:55 INFO     Пробуем отправить документ, референс MXSOXHltPbNYNxLJQDVSZgedpnbPXvQmSChZyUHJapbEVzoQMe
+[2025-06-16] 15:59:56 INFO     Успешно отправлен документ <paymentDocument> № 4784, референс MXSOXHltPbNYNxLJQDVSZgedpnbPXvQmSChZyUHJapbEVzoQMe

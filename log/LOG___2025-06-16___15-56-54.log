@@ -1,0 +1,10 @@
+[2025-06-16] 15:56:54 INFO     Запуск программы тестирования
+[2025-06-16] 15:56:54 INFO     Читаем url.cfg
+[2025-06-16] 15:56:54 INFO     Читаем Template_decision.xml
+[2025-06-16] 15:56:54 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 15:56:54 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 15:56:54 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 15:56:56 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 15:56:56 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8456, референс PImrqWkiRofwOvqFIgBSoKoyuMiXJcvhPPAipoEohdsGPtcmDz
+[2025-06-16] 15:56:57 INFO     Пробуем отправить документ, референс PImrqWkiRofwOvqFIgBSoKoyuMiXJcvhPPAipoEohdsGPtcmDz
+[2025-06-16] 15:56:58 INFO     Успешно отправлен документ <paymentDocument> № 8456, референс PImrqWkiRofwOvqFIgBSoKoyuMiXJcvhPPAipoEohdsGPtcmDz

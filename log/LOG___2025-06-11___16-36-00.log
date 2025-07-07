@@ -1,0 +1,36 @@
+[2025-06-11] 16:36:00 INFO     Запуск программы тестирования
+[2025-06-11] 16:36:00 INFO     Читаем url.cfg
+[2025-06-11] 16:36:00 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:36:00 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:36:00 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:36:00 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:36:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:36:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6924, референс htZdLhweOrLzklVLBlMXHSCsaYLsrzqQFnsUUbkYXjgeYdZiJd
+[2025-06-11] 16:36:05 INFO     Пробуем отправить документ, референс htZdLhweOrLzklVLBlMXHSCsaYLsrzqQFnsUUbkYXjgeYdZiJd
+[2025-06-11] 16:36:06 INFO     Успешно отправлен документ <paymentDocument> № 6924, референс htZdLhweOrLzklVLBlMXHSCsaYLsrzqQFnsUUbkYXjgeYdZiJd
+[2025-06-11] 16:36:09 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:36:09 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1802, референс pZOCYRPMGlrNzASQImVcDVZFuywbUDCPWisrHzaCpldYxHdNKo
+[2025-06-11] 16:36:10 INFO     Пробуем отправить документ, референс pZOCYRPMGlrNzASQImVcDVZFuywbUDCPWisrHzaCpldYxHdNKo
+[2025-06-11] 16:36:11 INFO     Успешно отправлен документ <paymentDocument> № 1802, референс pZOCYRPMGlrNzASQImVcDVZFuywbUDCPWisrHzaCpldYxHdNKo
+[2025-06-11] 16:36:14 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:36:14 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5034, референс MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:15 INFO     Пробуем отправить документ, референс MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:16 INFO     Успешно отправлен документ <paymentDocument> № 5034, референс MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:28 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:28 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:38 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:38 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:39 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:39 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:40 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:40 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:41 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:41 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:42 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:42 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:43 INFO     Пробуем отправить запрос <decision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:43 INFO     Запрос <decision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:45 INFO     Пробуем отправить запрос <decision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:45 INFO     Запрос <decision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:53 INFO     Пробуем отправить запрос <queryDecision> к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs
+[2025-06-11] 16:36:54 INFO     Запрос <queryDecision> успешно отправлен к референсу MMpzdkiCioMjYIJbVXUbQMYgJINdkunITyCpTGNxfLQgwaGVUs

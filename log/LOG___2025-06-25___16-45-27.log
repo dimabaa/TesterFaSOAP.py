@@ -1,0 +1,14 @@
+[2025-06-25] 16:45:27 INFO     Запуск программы тестирования
+[2025-06-25] 16:45:27 INFO     Читаем url.cfg
+[2025-06-25] 16:45:27 INFO     Читаем Template_decision.xml
+[2025-06-25] 16:45:27 INFO     Читаем Template_queryDecision.xml
+[2025-06-25] 16:45:27 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-25] 16:45:27 INFO     Читаем Template_incomingDocument.xml
+[2025-06-25] 16:45:28 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:45:28 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 672, референс m1pqgw402ZsVIbJlcPc4DHVIVlk2evjbLrwk4D9X
+[2025-06-25] 16:45:29 INFO     Пробуем отправить документ, референс m1pqgw402ZsVIbJlcPc4DHVIVlk2evjbLrwk4D9X
+[2025-06-25] 16:45:31 INFO     Успешно отправлен документ <paymentDocument> № 672, референс m1pqgw402ZsVIbJlcPc4DHVIVlk2evjbLrwk4D9X
+[2025-06-25] 16:45:32 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:45:32 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-25] 16:45:33 INFO     Пробуем отправить документ, референс 
+[2025-06-25] 16:45:33 INFO     Успешно отправлен документ <paymentDocument> № , референс 

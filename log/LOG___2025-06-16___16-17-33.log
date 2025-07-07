@@ -1,0 +1,10 @@
+[2025-06-16] 16:17:33 INFO     Запуск программы тестирования
+[2025-06-16] 16:17:33 INFO     Читаем url.cfg
+[2025-06-16] 16:17:33 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:17:33 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:17:33 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:17:33 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:17:34 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:17:34 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7743, референс qbqyqCSXpjNjASBeSDAIjTpDsHxgrhCDParTAoukOVtIFiexOw
+[2025-06-16] 16:17:35 INFO     Пробуем отправить документ, референс qbqyqCSXpjNjASBeSDAIjTpDsHxgrhCDParTAoukOVtIFiexOw
+[2025-06-16] 16:17:36 INFO     Успешно отправлен документ <paymentDocument> № 7743, референс qbqyqCSXpjNjASBeSDAIjTpDsHxgrhCDParTAoukOVtIFiexOw

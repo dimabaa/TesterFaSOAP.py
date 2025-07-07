@@ -1,0 +1,16 @@
+[2025-06-10] 14:28:49 INFO     Запуск программы тестирования
+[2025-06-10] 14:28:49 INFO     Читаем url.cfg
+[2025-06-10] 14:28:49 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:28:49 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:28:49 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:28:49 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:28:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:28:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3550, референс RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:28:51 INFO     Пробуем отправить документ, референс RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:28:52 INFO     Успешно отправлен документ <paymentDocument> № 3550, референс RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:28:55 INFO     Пробуем отправить запрос <queryDecision> к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:28:55 INFO     Запрос <queryDecision> успешно отправлен к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:29:35 INFO     Пробуем отправить запрос <decision> к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:29:35 INFO     Запрос <decision> успешно отправлен к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:29:49 INFO     Пробуем отправить запрос <queryDecision> к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE
+[2025-06-10] 14:29:49 INFO     Запрос <queryDecision> успешно отправлен к референсу RcXnvYtRrDhrbvpOJTTqrtXSbYUdzTDSfImBNMagQAWQbNnkZE

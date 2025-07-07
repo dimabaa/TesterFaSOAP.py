@@ -1,0 +1,10 @@
+[2025-06-30] 10:33:22 INFO     Запуск программы тестирования
+[2025-06-30] 10:33:22 INFO     Читаем url.cfg
+[2025-06-30] 10:33:22 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:33:22 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:33:22 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:33:22 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:33:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:33:23 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5257, референс GtNndsnsxvmtza6EZRPhMWEjqy4fYfjACjBmRAX8
+[2025-06-30] 10:33:24 INFO     Пробуем отправить документ, референс GtNndsnsxvmtza6EZRPhMWEjqy4fYfjACjBmRAX8
+[2025-06-30] 10:33:25 INFO     Успешно отправлен документ <paymentDocument> № 5257, референс GtNndsnsxvmtza6EZRPhMWEjqy4fYfjACjBmRAX8

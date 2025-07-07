@@ -1,0 +1,10 @@
+[2025-06-16] 16:13:57 INFO     Запуск программы тестирования
+[2025-06-16] 16:13:57 INFO     Читаем url.cfg
+[2025-06-16] 16:13:57 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:13:57 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:13:57 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:13:57 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:13:58 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:13:58 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1583, референс jmdeNsqURnRMvULACSghpktHWMPScLlgyJbBxVbdRjmUekfEqr
+[2025-06-16] 16:13:59 INFO     Пробуем отправить документ, референс jmdeNsqURnRMvULACSghpktHWMPScLlgyJbBxVbdRjmUekfEqr
+[2025-06-16] 16:14:00 INFO     Успешно отправлен документ <paymentDocument> № 1583, референс jmdeNsqURnRMvULACSghpktHWMPScLlgyJbBxVbdRjmUekfEqr

@@ -1,0 +1,10 @@
+[2025-06-10] 15:50:57 INFO     Запуск программы тестирования
+[2025-06-10] 15:50:57 INFO     Читаем url.cfg
+[2025-06-10] 15:50:57 INFO     Читаем Template_decision.xml
+[2025-06-10] 15:50:57 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 15:50:57 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 15:50:57 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 15:51:03 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:51:03 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8225, референс eucCinhEmImqkqmhMpiwqDAtioqTsXifAclyQkOXJgBZdOMGlq
+[2025-06-10] 15:51:04 INFO     Пробуем отправить документ, референс eucCinhEmImqkqmhMpiwqDAtioqTsXifAclyQkOXJgBZdOMGlq
+[2025-06-10] 15:51:05 INFO     Успешно отправлен документ <paymentDocument> № 8225, референс eucCinhEmImqkqmhMpiwqDAtioqTsXifAclyQkOXJgBZdOMGlq

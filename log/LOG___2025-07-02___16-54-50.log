@@ -1,0 +1,9 @@
+[2025-07-02] 16:54:50 INFO     Запуск программы тестирования
+[2025-07-02] 16:54:50 INFO     Читаем url.cfg
+[2025-07-02] 16:54:50 INFO     Читаем Template_decision.xml
+[2025-07-02] 16:54:50 INFO     Читаем Template_queryDecision.xml
+[2025-07-02] 16:54:50 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-02] 16:54:50 INFO     Читаем Template_incomingDocument.xml
+[2025-07-02] 16:54:50 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-02] 16:54:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2245, референс H1VrF55Xun3sKitf2Ed7H6Ry8booEwj4d10npzL9
+[2025-07-02] 16:54:58 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 499, референс D1R7rypCr7bFwFCqXIxBBWjmnOQse9ZrGL5ORSVw

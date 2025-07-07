@@ -1,0 +1,16 @@
+[2025-06-17] 11:36:42 INFO     Запуск программы тестирования
+[2025-06-17] 11:36:42 INFO     Читаем url.cfg
+[2025-06-17] 11:36:42 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:36:42 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:36:42 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:36:42 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:36:43 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:36:43 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 190, референс IZGsoObrklFcyQJfonAeEmxuTWKGIvoEOPznWwgkpGrAuzEjQa
+[2025-06-17] 11:36:44 INFO     Пробуем отправить документ, референс IZGsoObrklFcyQJfonAeEmxuTWKGIvoEOPznWwgkpGrAuzEjQa
+[2025-06-17] 11:36:45 INFO     Успешно отправлен документ <paymentDocument> № 190, референс IZGsoObrklFcyQJfonAeEmxuTWKGIvoEOPznWwgkpGrAuzEjQa
+[2025-06-17] 11:36:47 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:36:47 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1933, референс puhREhdKlmYruQKKXGqdfyumsVEdkqfXaYtjIfQYqpesXBkuRD
+[2025-06-17] 11:36:48 INFO     Пробуем отправить документ, референс puhREhdKlmYruQKKXGqdfyumsVEdkqfXaYtjIfQYqpesXBkuRD
+[2025-06-17] 11:36:48 INFO     Успешно отправлен документ <paymentDocument> № 1933, референс puhREhdKlmYruQKKXGqdfyumsVEdkqfXaYtjIfQYqpesXBkuRD
+[2025-06-17] 11:37:00 INFO     Пробуем отправить запрос <queryDecision> к референсу puhREhdKlmYruQKKXGqdfyumsVEdkqfXaYtjIfQYqpesXBkuRD
+[2025-06-17] 11:37:00 INFO     Запрос <queryDecision> успешно отправлен к референсу puhREhdKlmYruQKKXGqdfyumsVEdkqfXaYtjIfQYqpesXBkuRD

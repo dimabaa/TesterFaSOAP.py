@@ -1,0 +1,8 @@
+[2025-06-25] 16:26:57 INFO     Запуск программы тестирования
+[2025-06-25] 16:26:57 INFO     Читаем url.cfg
+[2025-06-25] 16:26:57 INFO     Читаем Template_decision.xml
+[2025-06-25] 16:26:57 INFO     Читаем Template_queryDecision.xml
+[2025-06-25] 16:26:57 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-25] 16:26:57 INFO     Читаем Template_incomingDocument.xml
+[2025-06-25] 16:26:58 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:26:58 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4505, референс UsroxUILKljDrLXPfpMhlEnmbDYOGrEmWxOzHObexnWAHeYMqe

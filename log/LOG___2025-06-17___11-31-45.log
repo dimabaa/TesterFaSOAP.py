@@ -1,0 +1,20 @@
+[2025-06-17] 11:31:45 INFO     Запуск программы тестирования
+[2025-06-17] 11:31:45 INFO     Читаем url.cfg
+[2025-06-17] 11:31:45 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:31:45 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:31:45 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:31:45 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:31:47 INFO     Пробуем отправить документ, референс 
+[2025-06-17] 11:31:47 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-17] 11:31:48 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:31:48 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 495, референс ZDPpnDBfVCjPbkWwKtKoPqPRGfprdmbSaYWsCnVkxIOZwiRaeI
+[2025-06-17] 11:31:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:31:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9428, референс kREavjoqAlgkBbdERjNLKjpAbQFvnLXXhVEWpLXYEPtAgMCsAF
+[2025-06-17] 11:31:51 INFO     Пробуем отправить документ, референс kREavjoqAlgkBbdERjNLKjpAbQFvnLXXhVEWpLXYEPtAgMCsAF
+[2025-06-17] 11:31:52 INFO     Успешно отправлен документ <paymentDocument> № 9428, референс kREavjoqAlgkBbdERjNLKjpAbQFvnLXXhVEWpLXYEPtAgMCsAF
+[2025-06-17] 11:31:55 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:31:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1940, референс kHlGBrjKXIMRVlUkDxNXFwRYJrAzTjMQDqsrnyTMoNpMmwaXLn
+[2025-06-17] 11:31:55 INFO     Пробуем отправить документ, референс kHlGBrjKXIMRVlUkDxNXFwRYJrAzTjMQDqsrnyTMoNpMmwaXLn
+[2025-06-17] 11:31:56 INFO     Успешно отправлен документ <paymentDocument> № 1940, референс kHlGBrjKXIMRVlUkDxNXFwRYJrAzTjMQDqsrnyTMoNpMmwaXLn
+[2025-06-17] 11:32:06 INFO     Пробуем отправить запрос <queryDecision> к референсу kHlGBrjKXIMRVlUkDxNXFwRYJrAzTjMQDqsrnyTMoNpMmwaXLn
+[2025-06-17] 11:32:06 INFO     Запрос <queryDecision> успешно отправлен к референсу kHlGBrjKXIMRVlUkDxNXFwRYJrAzTjMQDqsrnyTMoNpMmwaXLn

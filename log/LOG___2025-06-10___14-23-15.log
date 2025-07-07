@@ -1,0 +1,14 @@
+[2025-06-10] 14:23:15 INFO     Запуск программы тестирования
+[2025-06-10] 14:23:15 INFO     Читаем url.cfg
+[2025-06-10] 14:23:15 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:23:15 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:23:15 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:23:15 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:23:17 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:23:17 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 190, референс eorCjbItZdrgLqsgJclmRdobyJIXDeSsyKAIvNvBklBmjGRPpd
+[2025-06-10] 14:23:17 INFO     Пробуем отправить документ, референс eorCjbItZdrgLqsgJclmRdobyJIXDeSsyKAIvNvBklBmjGRPpd
+[2025-06-10] 14:23:18 INFO     Успешно отправлен документ <paymentDocument> № 190, референс eorCjbItZdrgLqsgJclmRdobyJIXDeSsyKAIvNvBklBmjGRPpd
+[2025-06-10] 14:23:22 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:23:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8082, референс ATNimFwSNYuqKgkrnAleqNhbWMGwBSbFoitQRnLVQrwlbKfzYc
+[2025-06-10] 14:23:23 INFO     Пробуем отправить документ, референс ATNimFwSNYuqKgkrnAleqNhbWMGwBSbFoitQRnLVQrwlbKfzYc
+[2025-06-10] 14:23:23 INFO     Успешно отправлен документ <paymentDocument> № 8082, референс ATNimFwSNYuqKgkrnAleqNhbWMGwBSbFoitQRnLVQrwlbKfzYc

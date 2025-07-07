@@ -1,0 +1,12 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;checkDocumentRequest&gt;
+    &lt;systemID&gt;TesterFaPy&lt;/systemID&gt;
+	&lt;docRef&gt;{{docRef}}&lt;/docRef&gt;
+	&lt;clients&gt;
+			&lt;client&gt;
+			&lt;name&gt;БАРБАШИН ДМИТРИЙ ЕВГЕНЬЕВИЧ&lt;/name&gt;
+			&lt;dateOfBirth&gt;11.02.1992&lt;/dateOfBirth&gt;
+			&lt;taxCode&gt;300803762607&lt;/taxCode&gt;
+			&lt;/client&gt;
+	&lt;/clients&gt;
+&lt;/checkDocumentRequest&gt;

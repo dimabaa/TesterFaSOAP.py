@@ -1,0 +1,8 @@
+[2025-07-03] 12:24:08 INFO     Запуск программы тестирования
+[2025-07-03] 12:24:08 INFO     Читаем url.cfg
+[2025-07-03] 12:24:08 INFO     Читаем Template_decision.xml
+[2025-07-03] 12:24:08 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 12:24:08 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 12:24:08 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 12:24:08 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 12:24:10 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2976, референс 55KJb8cEK6X6JzfOAMB90OKUJazqawpeoTEfGuDX

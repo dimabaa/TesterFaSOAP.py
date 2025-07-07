@@ -1,0 +1,8 @@
+[2025-07-03] 18:03:23 INFO     Запуск программы тестирования
+[2025-07-03] 18:03:23 INFO     Читаем url.cfg
+[2025-07-03] 18:03:23 INFO     Читаем Template_decision.xml
+[2025-07-03] 18:03:23 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 18:03:23 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 18:03:23 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 18:03:23 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 18:03:25 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1201, референс 7YLcuO6sbwPWU4eCFScMjE0dP4e8JvxOTkIMkAhf

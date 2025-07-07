@@ -1,0 +1,16 @@
+[2025-06-17] 11:28:18 INFO     Запуск программы тестирования
+[2025-06-17] 11:28:18 INFO     Читаем url.cfg
+[2025-06-17] 11:28:18 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:28:18 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:28:18 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:28:18 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:28:19 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:28:20 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5853, референс ZcWGSnHMGmDnvOOrOltgRSdFgCBfKukefMvnLFOLNXsnYcTesK
+[2025-06-17] 11:28:20 INFO     Пробуем отправить документ, референс ZcWGSnHMGmDnvOOrOltgRSdFgCBfKukefMvnLFOLNXsnYcTesK
+[2025-06-17] 11:28:21 INFO     Успешно отправлен документ <paymentDocument> № 5853, референс ZcWGSnHMGmDnvOOrOltgRSdFgCBfKukefMvnLFOLNXsnYcTesK
+[2025-06-17] 11:28:24 INFO     Пробуем отправить запрос <queryDecision> к референсу ZcWGSnHMGmDnvOOrOltgRSdFgCBfKukefMvnLFOLNXsnYcTesK
+[2025-06-17] 11:28:24 INFO     Запрос <queryDecision> успешно отправлен к референсу ZcWGSnHMGmDnvOOrOltgRSdFgCBfKukefMvnLFOLNXsnYcTesK
+[2025-06-17] 11:28:45 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:28:45 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1016, референс SCqQwCOLQzuYYoSxMymfRIOJUOXMizWINrQIjDGJFbzCeXbyDB
+[2025-06-17] 11:28:46 INFO     Пробуем отправить документ, референс SCqQwCOLQzuYYoSxMymfRIOJUOXMizWINrQIjDGJFbzCeXbyDB
+[2025-06-17] 11:28:47 INFO     Успешно отправлен документ <paymentDocument> № 1016, референс SCqQwCOLQzuYYoSxMymfRIOJUOXMizWINrQIjDGJFbzCeXbyDB

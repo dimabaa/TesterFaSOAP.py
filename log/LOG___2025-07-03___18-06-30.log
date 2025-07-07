@@ -1,0 +1,7 @@
+[2025-07-03] 18:06:30 INFO     Запуск программы тестирования
+[2025-07-03] 18:06:30 INFO     Читаем url.cfg
+[2025-07-03] 18:06:30 INFO     Читаем Template_decision.xml
+[2025-07-03] 18:06:30 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 18:06:30 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 18:06:30 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 18:06:30 INFO     Читаем Template_checkDocumentRequest.xml

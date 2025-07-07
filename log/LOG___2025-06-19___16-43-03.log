@@ -1,0 +1,23 @@
+[2025-06-19] 16:43:03 INFO     Запуск программы тестирования
+[2025-06-19] 16:43:03 INFO     Читаем url.cfg
+[2025-06-19] 16:43:03 INFO     Читаем Template_decision.xml
+[2025-06-19] 16:43:03 INFO     Читаем Template_queryDecision.xml
+[2025-06-19] 16:43:03 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-19] 16:43:03 INFO     Читаем Template_incomingDocument.xml
+[2025-06-19] 16:43:07 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 16:43:07 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1312, референс FVPErRoBdeqskTHfDmlaOFtaDvVFiWwfwvTbCcJzJGkmpXJpom
+[2025-06-19] 16:43:09 INFO     Пробуем отправить документ, референс FVPErRoBdeqskTHfDmlaOFtaDvVFiWwfwvTbCcJzJGkmpXJpom
+[2025-06-19] 16:43:10 INFO     Успешно отправлен документ <paymentDocument> № 1312, референс FVPErRoBdeqskTHfDmlaOFtaDvVFiWwfwvTbCcJzJGkmpXJpom
+[2025-06-19] 16:45:50 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 16:45:51 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8319, референс krAAPztnILsxhhhLXLKWkgJGwvxOIvjTBlQmbqAnWxlGxrkqhL
+[2025-06-19] 16:45:52 INFO     Пробуем отправить документ, референс krAAPztnILsxhhhLXLKWkgJGwvxOIvjTBlQmbqAnWxlGxrkqhL
+[2025-06-19] 16:45:53 INFO     Успешно отправлен документ <paymentDocument> № 8319, референс krAAPztnILsxhhhLXLKWkgJGwvxOIvjTBlQmbqAnWxlGxrkqhL
+[2025-06-19] 16:45:59 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 16:45:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9609, референс XoOZGhemKDNUuUMdvCNcqEiXmeKumnKTmDvITXWZqfDgrrKJVJ
+[2025-06-19] 16:46:06 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 16:46:06 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4516, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU
+[2025-06-19] 16:46:07 INFO     Пробуем отправить документ, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU
+[2025-06-19] 16:46:08 INFO     Успешно отправлен документ <paymentDocument> № 4516, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU
+[2025-06-19] 16:46:14 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 4516, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU
+[2025-06-19] 16:46:15 INFO     Пробуем отправить документ, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU
+[2025-06-19] 16:46:16 INFO     Успешно отправлен документ <paymentDocument> № 4516, референс kkDTUYSBRPTzlBWAuSSMvizbiyAqVcaORCOyodigqxMtsDELlU

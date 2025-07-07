@@ -1,0 +1,16 @@
+[2025-06-25] 16:44:59 INFO     Запуск программы тестирования
+[2025-06-25] 16:44:59 INFO     Читаем url.cfg
+[2025-06-25] 16:44:59 INFO     Читаем Template_decision.xml
+[2025-06-25] 16:44:59 INFO     Читаем Template_queryDecision.xml
+[2025-06-25] 16:44:59 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-25] 16:44:59 INFO     Читаем Template_incomingDocument.xml
+[2025-06-25] 16:45:00 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:45:00 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9460, референс AhFPEU87L80y35eSrs359DbIy8bTfGI1PCcPy2fo
+[2025-06-25] 16:45:01 INFO     Пробуем отправить документ, референс AhFPEU87L80y35eSrs359DbIy8bTfGI1PCcPy2fo
+[2025-06-25] 16:45:02 INFO     Успешно отправлен документ <paymentDocument> № 9460, референс AhFPEU87L80y35eSrs359DbIy8bTfGI1PCcPy2fo
+[2025-06-25] 16:45:04 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:45:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5643, референс 6NL0T45Tx37OU5pIP7sefbpYBXg5ofwR99etcy70
+[2025-06-25] 16:45:04 INFO     Пробуем отправить документ, референс 6NL0T45Tx37OU5pIP7sefbpYBXg5ofwR99etcy70
+[2025-06-25] 16:45:05 INFO     Успешно отправлен документ <paymentDocument> № 5643, референс 6NL0T45Tx37OU5pIP7sefbpYBXg5ofwR99etcy70
+[2025-06-25] 16:45:07 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-25] 16:45:07 INFO     Генерация документа с ФИКС Плательщик

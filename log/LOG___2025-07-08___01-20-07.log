@@ -1,0 +1,16 @@
+[2025-07-08] 01:20:07 INFO     Запуск программы тестирования
+[2025-07-08] 01:20:07 INFO     Читаем url.cfg
+[2025-07-08] 01:20:07 INFO     Читаем Template_decision.xml
+[2025-07-08] 01:20:07 INFO     Читаем Template_queryDecision.xml
+[2025-07-08] 01:20:07 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-08] 01:20:07 INFO     Читаем Template_incomingDocument.xml
+[2025-07-08] 01:20:07 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-08] 01:20:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3669, референс b5MnzjEYhJDs4tWYzzreWx1FJ96MRHiW7ILDGtKA
+[2025-07-08] 01:21:00 INFO     Пробуем отправить документ, референс b5MnzjEYhJDs4tWYzzreWx1FJ96MRHiW7ILDGtKA
+[2025-07-08] 01:21:00 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException
+[2025-07-08] 01:21:18 INFO     Пробуем отправить запрос <checkDocumentRequest> к референсу 
+[2025-07-08] 01:21:18 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException
+[2025-07-08] 01:21:34 INFO     Пробуем отправить запрос <decision> к референсу 
+[2025-07-08] 01:21:34 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException
+[2025-07-08] 01:22:46 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9859, референс bHZvQdL2KEYgglEdkyjObuiSzbQgLLg3vfUCtGDS
+[2025-07-08] 01:22:47 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8779, референс GpU8aeRzRdAeSnjwVGEB9uDKKeVa2Td5MRtNaBYu

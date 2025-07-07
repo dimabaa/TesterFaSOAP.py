@@ -1,0 +1,23 @@
+[2025-06-19] 17:23:58 INFO     Запуск программы тестирования
+[2025-06-19] 17:23:58 INFO     Читаем url.cfg
+[2025-06-19] 17:23:58 INFO     Читаем Template_decision.xml
+[2025-06-19] 17:23:58 INFO     Читаем Template_queryDecision.xml
+[2025-06-19] 17:23:58 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-19] 17:23:58 INFO     Читаем Template_incomingDocument.xml
+[2025-06-19] 17:23:59 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:23:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6411, референс kdPpadtRDTCmXLQswHeCekdqhfyDfZwidzNIvuLthDHzbrfXSn
+[2025-06-19] 17:24:00 INFO     Пробуем отправить документ, референс kdPpadtRDTCmXLQswHeCekdqhfyDfZwidzNIvuLthDHzbrfXSn
+[2025-06-19] 17:24:01 INFO     Успешно отправлен документ <paymentDocument> № 6411, референс kdPpadtRDTCmXLQswHeCekdqhfyDfZwidzNIvuLthDHzbrfXSn
+[2025-06-19] 17:24:02 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:24:02 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4346, референс uyiaMZYbbDhfUIKgzZYyFgdhSvBWOUhLZiIwTgpyRQGcsvtEyJ
+[2025-06-19] 17:24:02 INFO     Пробуем отправить документ, референс uyiaMZYbbDhfUIKgzZYyFgdhSvBWOUhLZiIwTgpyRQGcsvtEyJ
+[2025-06-19] 17:24:03 INFO     Успешно отправлен документ <paymentDocument> № 4346, референс uyiaMZYbbDhfUIKgzZYyFgdhSvBWOUhLZiIwTgpyRQGcsvtEyJ
+[2025-06-19] 17:24:14 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:24:14 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6388, референс zlFCbcXniXLEUTLiDsNFCDrEDPEQBRObznjUVHGWRvBRRMRszG
+[2025-06-19] 17:24:21 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 17:24:21 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5847, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC
+[2025-06-19] 17:24:22 INFO     Пробуем отправить документ, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC
+[2025-06-19] 17:24:22 INFO     Успешно отправлен документ <paymentDocument> № 5847, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC
+[2025-06-19] 17:24:30 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 5847, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC
+[2025-06-19] 17:24:31 INFO     Пробуем отправить документ, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC
+[2025-06-19] 17:24:31 INFO     Успешно отправлен документ <paymentDocument> № 5847, референс rxCaJpkBgYjTEkJZoRWdqtCgrfuyEpkIjyBnzJiSJxbEyuFYuC

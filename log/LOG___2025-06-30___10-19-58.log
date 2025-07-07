@@ -1,0 +1,18 @@
+[2025-06-30] 10:19:58 INFO     Запуск программы тестирования
+[2025-06-30] 10:19:58 INFO     Читаем url.cfg
+[2025-06-30] 10:19:58 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:19:58 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:19:58 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:19:58 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:19:59 INFO     Пробуем отправить документ, референс 
+[2025-06-30] 10:19:59 INFO     http://kc-13-133.bss.lan:8500/wssocket/webservices/fa/wssocket ---> Ошибка: RequestException
+[2025-06-30] 10:20:01 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:20:01 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4118, референс 7khdcn9sPnmRlJRq7SCTWhy7uXFsACUkO1oNBGhV
+[2025-06-30] 10:20:08 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:20:08 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 522, референс YqN5ineWVEZtMhYqHSSh2bUoYequPsPMS4gbYNv2
+[2025-06-30] 10:20:09 INFO     Пробуем отправить документ, референс YqN5ineWVEZtMhYqHSSh2bUoYequPsPMS4gbYNv2
+[2025-06-30] 10:20:10 INFO     Успешно отправлен документ <paymentDocument> № 522, референс YqN5ineWVEZtMhYqHSSh2bUoYequPsPMS4gbYNv2
+[2025-06-30] 10:20:12 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:20:12 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9798, референс A2PTr0icZoyO49aBJNoIfF2jymxzFQWNP4w6nxkX
+[2025-06-30] 10:20:13 INFO     Пробуем отправить документ, референс A2PTr0icZoyO49aBJNoIfF2jymxzFQWNP4w6nxkX
+[2025-06-30] 10:20:14 INFO     Успешно отправлен документ <paymentDocument> № 9798, референс A2PTr0icZoyO49aBJNoIfF2jymxzFQWNP4w6nxkX

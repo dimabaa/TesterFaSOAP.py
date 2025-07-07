@@ -1,0 +1,10 @@
+[2025-06-30] 10:35:43 INFO     Запуск программы тестирования
+[2025-06-30] 10:35:43 INFO     Читаем url.cfg
+[2025-06-30] 10:35:43 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:35:43 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:35:43 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:35:43 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:35:44 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:35:44 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6757, референс 8xxiHkqllw6pKLxNRrSXpDiVvll6imp1dgVeTdBG
+[2025-06-30] 10:35:59 INFO     Пробуем отправить документ, референс 8xxiHkqllw6pKLxNRrSXpDiVvll6imp1dgVeTdBG
+[2025-06-30] 10:36:00 INFO     Успешно отправлен документ <paymentDocument> № 6757, референс 8xxiHkqllw6pKLxNRrSXpDiVvll6imp1dgVeTdBG

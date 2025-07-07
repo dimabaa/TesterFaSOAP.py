@@ -1,0 +1,10 @@
+[2025-06-10] 14:21:30 INFO     Запуск программы тестирования
+[2025-06-10] 14:21:30 INFO     Читаем url.cfg
+[2025-06-10] 14:21:30 INFO     Читаем Template_decision.xml
+[2025-06-10] 14:21:30 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 14:21:30 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 14:21:30 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 14:21:31 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 14:21:31 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7324, референс kwpasREcsrcOpnLdorjbmJcosjBIEGTDXndTDHnZvLGcEmyAaq
+[2025-06-10] 14:21:32 INFO     Пробуем отправить документ, референс kwpasREcsrcOpnLdorjbmJcosjBIEGTDXndTDHnZvLGcEmyAaq
+[2025-06-10] 14:21:32 INFO     Успешно отправлен документ <paymentDocument> № 7324, референс kwpasREcsrcOpnLdorjbmJcosjBIEGTDXndTDHnZvLGcEmyAaq

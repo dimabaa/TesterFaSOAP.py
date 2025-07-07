@@ -1,0 +1,97 @@
+&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;
+&lt;incomingDocument&gt;
+&lt;systemID&gt;TesterFaPy&lt;/systemID&gt;
+
+&lt;receiver action="UPDATE"&gt;
+	&lt;type&gt;{{phys_or_jur}}&lt;/type&gt;
+	&lt;name&gt;{{payerName}}&lt;/name&gt;
+	&lt;taxCode&gt;1324183999&lt;/taxCode&gt;
+	&lt;receiverId&gt;{{payerId}}&lt;/receiverId&gt;
+	&lt;account&gt;
+	&lt;number&gt;{{payerAccount}}&lt;/number&gt;
+	&lt;bankCode&gt;047311818&lt;/bankCode&gt;
+	&lt;/account&gt;
+&lt;/receiver&gt;
+
+&lt;payment&gt;
+	&lt;dateTimeCreate&gt;{{time}}&lt;/dateTimeCreate&gt;
+	&lt;dateTimeReceive&gt;{{time}}&lt;/dateTimeReceive&gt;
+	&lt;payerName&gt;{{payerName}}&lt;/payerName&gt;
+	&lt;payerTaxCode&gt;1324183999&lt;/payerTaxCode&gt;
+	&lt;payerAccount&gt;{{payerAccount}}&lt;/payerAccount&gt;
+	&lt;payerBankCode&gt;044525225&lt;/payerBankCode&gt;
+	&lt;receiverName&gt;{{receiverName}}&lt;/receiverName&gt;
+	&lt;receiverTaxCode&gt;4532546999&lt;/receiverTaxCode&gt;
+	&lt;receiverAccount&gt;{{receiverAccount}}&lt;/receiverAccount&gt;
+	&lt;receiverBankCode&gt;044525311&lt;/receiverBankCode&gt;
+	&lt;documentType&gt;PDR&lt;/documentType&gt;
+	&lt;docRef&gt;{{docRef}}&lt;/docRef&gt;
+	&lt;amount&gt;{{amount}}.0&lt;/amount&gt;
+	&lt;currencyCode&gt;810&lt;/currencyCode&gt;
+	&lt;ground&gt;Payment INCOMING order, including VAT RUB 250.00&lt;/ground&gt;
+	&lt;payerPhoneNumber&gt;9165555555&lt;/payerPhoneNumber&gt;
+	&lt;receiverPhoneNumber&gt;9165555509&lt;/receiverPhoneNumber&gt;
+&lt;/payment&gt;
+
+&lt;additional&gt;
+	&lt;field&gt;
+	&lt;name&gt;IdentificationDocumentReceiver&lt;/name&gt;
+	&lt;value&gt;4555252525&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;TypeIdentificationDocumentReceiver&lt;/name&gt;
+	&lt;value&gt;Passport&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;AddressReceiver&lt;/name&gt;
+	&lt;value&gt;Moscow, Lenina st. 15&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;IdentificationDocument&lt;/name&gt;
+	&lt;value&gt;Passport&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;Address&lt;/name&gt;
+	&lt;value&gt;Moscow, Tverskaya st. 3&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;CountErr&lt;/name&gt;
+	&lt;value&gt;2&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;DateCreateAccount&lt;/name&gt;
+	&lt;value&gt;30.10.2021&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;DateLastOperation&lt;/name&gt;
+	&lt;value&gt;30.10.2021&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;DeviceAccMan&lt;/name&gt;
+	&lt;value&gt;{
+	"operations" : [
+	{
+	"date": "2021-10-16T18:25:43.511Z",
+	"deviceId": "deviceId1"
+	},
+	{
+	"date": "2021-10-16T18:25:43.511Z",
+	"deviceId": "deviceId2"
+	}
+	]
+	}&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;IsSalary&lt;/name&gt;
+	&lt;value&gt;True&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;IsAnonymizer&lt;/name&gt;
+	&lt;value&gt;True&lt;/value&gt;
+	&lt;/field&gt;
+	&lt;field&gt;
+	&lt;name&gt;PreviousPayment&lt;/name&gt;
+	&lt;value&gt;30.10.2021&lt;/value&gt;
+	&lt;/field&gt;
+&lt;/additional&gt;
+&lt;/incomingDocument&gt;

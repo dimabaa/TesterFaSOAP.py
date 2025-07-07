@@ -1,0 +1,10 @@
+[2025-07-03] 12:22:31 INFO     Запуск программы тестирования
+[2025-07-03] 12:22:31 INFO     Читаем url.cfg
+[2025-07-03] 12:22:31 INFO     Читаем Template_decision.xml
+[2025-07-03] 12:22:31 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 12:22:31 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 12:22:31 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 12:22:31 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 12:22:32 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2685, референс grTeG5QSIrS2s3f86Rv2zbDIyRAg7CVgLqKlmQoP
+[2025-07-03] 12:22:41 INFO     Пробуем отправить документ, референс grTeG5QSIrS2s3f86Rv2zbDIyRAg7CVgLqKlmQoP
+[2025-07-03] 12:22:41 INFO     Успешно отправлен документ <paymentDocument> № 2685, референс grTeG5QSIrS2s3f86Rv2zbDIyRAg7CVgLqKlmQoP

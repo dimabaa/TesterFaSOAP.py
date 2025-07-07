@@ -1,0 +1,10 @@
+[2025-06-30] 10:29:25 INFO     Запуск программы тестирования
+[2025-06-30] 10:29:25 INFO     Читаем url.cfg
+[2025-06-30] 10:29:25 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:29:25 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:29:25 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:29:25 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:29:26 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:29:26 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 270, референс LdKTs7jikMDypwqyoKfk7uFouADpj68x85E6lIYO
+[2025-06-30] 10:29:27 INFO     Пробуем отправить документ, референс LdKTs7jikMDypwqyoKfk7uFouADpj68x85E6lIYO
+[2025-06-30] 10:29:29 INFO     Успешно отправлен документ <paymentDocument> № 270, референс LdKTs7jikMDypwqyoKfk7uFouADpj68x85E6lIYO

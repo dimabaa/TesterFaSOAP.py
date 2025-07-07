@@ -1,0 +1,14 @@
+[2025-06-11] 16:38:34 INFO     Запуск программы тестирования
+[2025-06-11] 16:38:34 INFO     Читаем url.cfg
+[2025-06-11] 16:38:34 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:38:34 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:38:34 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:38:34 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:38:35 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:38:35 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2804, референс hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:36 INFO     Пробуем отправить документ, референс hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:37 INFO     Успешно отправлен документ <paymentDocument> № 2804, референс hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:40 INFO     Пробуем отправить запрос <queryDecision> к референсу hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:40 INFO     Запрос <queryDecision> успешно отправлен к референсу hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:53 INFO     Пробуем отправить запрос <decision> к референсу hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA
+[2025-06-11] 16:38:53 INFO     Запрос <decision> успешно отправлен к референсу hNCzPnGuZhdDNqcFkoRvHSixdPmkuKwjcDksqAWVBqKiIJosUA

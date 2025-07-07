@@ -1,0 +1,10 @@
+[2025-06-19] 16:55:27 INFO     Запуск программы тестирования
+[2025-06-19] 16:55:27 INFO     Читаем url.cfg
+[2025-06-19] 16:55:27 INFO     Читаем Template_decision.xml
+[2025-06-19] 16:55:27 INFO     Читаем Template_queryDecision.xml
+[2025-06-19] 16:55:27 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-19] 16:55:27 INFO     Читаем Template_incomingDocument.xml
+[2025-06-19] 16:55:28 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-19] 16:55:28 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1209, референс oZeDBBHyUrkQWbNrGrtuNDXoXeQGxBachkZPLRbkidAtHamemo
+[2025-06-19] 16:55:29 INFO     Пробуем отправить документ, референс oZeDBBHyUrkQWbNrGrtuNDXoXeQGxBachkZPLRbkidAtHamemo
+[2025-06-19] 16:55:30 INFO     Успешно отправлен документ <paymentDocument> № 1209, референс oZeDBBHyUrkQWbNrGrtuNDXoXeQGxBachkZPLRbkidAtHamemo

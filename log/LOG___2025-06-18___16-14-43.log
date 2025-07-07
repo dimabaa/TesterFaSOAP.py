@@ -1,0 +1,14 @@
+[2025-06-18] 16:14:43 INFO     Запуск программы тестирования
+[2025-06-18] 16:14:43 INFO     Читаем url.cfg
+[2025-06-18] 16:14:43 INFO     Читаем Template_decision.xml
+[2025-06-18] 16:14:43 INFO     Читаем Template_queryDecision.xml
+[2025-06-18] 16:14:43 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-18] 16:14:43 INFO     Читаем Template_incomingDocument.xml
+[2025-06-18] 16:14:44 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:14:44 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5764, референс NJRlTVbxXHZNumWWFPFhiuFnSlhZaOVNsHeSRGFykpjgrXGVMM
+[2025-06-18] 16:14:48 INFO     Пробуем отправить документ, референс NJRlTVbxXHZNumWWFPFhiuFnSlhZaOVNsHeSRGFykpjgrXGVMM
+[2025-06-18] 16:14:49 INFO     Успешно отправлен документ <paymentDocument> № 5764, референс NJRlTVbxXHZNumWWFPFhiuFnSlhZaOVNsHeSRGFykpjgrXGVMM
+[2025-06-18] 16:14:52 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-18] 16:14:52 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8735, референс ivfYRtPpPEvQLhQIajdVOupBfIEHaGyUbRhNOBtXPvdYXmPfKW
+[2025-06-18] 16:14:53 INFO     Пробуем отправить документ, референс ivfYRtPpPEvQLhQIajdVOupBfIEHaGyUbRhNOBtXPvdYXmPfKW
+[2025-06-18] 16:14:54 INFO     Успешно отправлен документ <paymentDocument> № 8735, референс ivfYRtPpPEvQLhQIajdVOupBfIEHaGyUbRhNOBtXPvdYXmPfKW

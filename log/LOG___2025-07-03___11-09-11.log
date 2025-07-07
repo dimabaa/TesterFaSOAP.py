@@ -1,0 +1,11 @@
+[2025-07-03] 11:09:11 INFO     Запуск программы тестирования
+[2025-07-03] 11:09:11 INFO     Читаем url.cfg
+[2025-07-03] 11:09:11 INFO     Читаем Template_decision.xml
+[2025-07-03] 11:09:11 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 11:09:11 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 11:09:11 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 11:09:11 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 11:09:13 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7788, референс 0dXX0F7uDNoHNZOx7vSLHfBT16FomSGc8ixXB4ky
+[2025-07-03] 11:09:18 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4525, референс 6jutwPEUlCYrE2DrLrdtrWk1TRKSWtggFdmaHDRj
+[2025-07-03] 11:09:19 INFO     Пробуем отправить документ, референс 6jutwPEUlCYrE2DrLrdtrWk1TRKSWtggFdmaHDRj
+[2025-07-03] 11:09:19 INFO     Успешно отправлен документ <paymentDocument> № 4525, референс 6jutwPEUlCYrE2DrLrdtrWk1TRKSWtggFdmaHDRj

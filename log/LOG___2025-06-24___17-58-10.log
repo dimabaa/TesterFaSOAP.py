@@ -1,0 +1,13 @@
+[2025-06-24] 17:58:10 INFO     Запуск программы тестирования
+[2025-06-24] 17:58:10 INFO     Читаем url.cfg
+[2025-06-24] 17:58:10 INFO     Читаем Template_decision.xml
+[2025-06-24] 17:58:10 INFO     Читаем Template_queryDecision.xml
+[2025-06-24] 17:58:10 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-24] 17:58:10 INFO     Читаем Template_incomingDocument.xml
+[2025-06-24] 17:58:14 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 17:58:14 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5354, референс ncHbiNZvdUkPqjHGXCDzSwyWmhlLgtXETaxuajMJCZuEePCmPo
+[2025-06-24] 17:58:23 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 17:58:23 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 258, референс wRgbIhHUcDfRteAvuskOztaJzUQWWeKoCaHSpfXMylWeGeBYRV
+[2025-06-24] 17:58:24 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 17:58:24 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7617, референс AgwiidqjXFzNljoTxmdslTraVXMTeJKSUpznpZyNiOjsqXRvPv
+[2025-06-24] 17:58:24 INFO     Пробуем отправить документ, референс AgwiidqjXFzNljoTxmdslTraVXMTeJKSUpznpZyNiOjsqXRvPv

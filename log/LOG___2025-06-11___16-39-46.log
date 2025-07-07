@@ -1,0 +1,18 @@
+[2025-06-11] 16:39:46 INFO     Запуск программы тестирования
+[2025-06-11] 16:39:46 INFO     Читаем url.cfg
+[2025-06-11] 16:39:46 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:39:46 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:39:46 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:39:46 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:39:47 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:39:48 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 366, референс iVFiwlntLAiNiNgbmurJCfeLIKKWSGKDJakKijddQUOAaAuVMH
+[2025-06-11] 16:39:48 INFO     Пробуем отправить документ, референс iVFiwlntLAiNiNgbmurJCfeLIKKWSGKDJakKijddQUOAaAuVMH
+[2025-06-11] 16:39:49 INFO     Успешно отправлен документ <paymentDocument> № 366, референс iVFiwlntLAiNiNgbmurJCfeLIKKWSGKDJakKijddQUOAaAuVMH
+[2025-06-11] 16:39:53 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:39:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 538, референс VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:39:54 INFO     Пробуем отправить документ, референс VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:39:55 INFO     Успешно отправлен документ <paymentDocument> № 538, референс VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:40:00 INFO     Пробуем отправить запрос <queryDecision> к референсу VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:40:00 INFO     Запрос <queryDecision> успешно отправлен к референсу VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:40:26 INFO     Пробуем отправить запрос <decision> к референсу VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR
+[2025-06-11] 16:40:26 INFO     Запрос <decision> успешно отправлен к референсу VsmQFhALZtTTdkvgHQoCBIpRlqovuxHanTtEYHvZllqnfOIdTR

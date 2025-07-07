@@ -1,0 +1,22 @@
+[2025-06-10] 16:26:25 INFO     Запуск программы тестирования
+[2025-06-10] 16:26:25 INFO     Читаем url.cfg
+[2025-06-10] 16:26:25 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:26:25 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:26:25 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:26:25 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:26:27 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:26:27 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5348, референс RhlMlffJLLUgDspGCgXvTFybDkvBMgbBIHdeFqReAAHuvNuVlv
+[2025-06-10] 16:26:28 INFO     Пробуем отправить документ, референс RhlMlffJLLUgDspGCgXvTFybDkvBMgbBIHdeFqReAAHuvNuVlv
+[2025-06-10] 16:26:29 INFO     Успешно отправлен документ <paymentDocument> № 5348, референс RhlMlffJLLUgDspGCgXvTFybDkvBMgbBIHdeFqReAAHuvNuVlv
+[2025-06-10] 16:26:33 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:26:33 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 773, референс rdNXugxUwcZzLIKnVFDauGpCNhYQvqxlMGkBDsliaNNvVVoADT
+[2025-06-10] 16:26:34 INFO     Пробуем отправить документ, референс rdNXugxUwcZzLIKnVFDauGpCNhYQvqxlMGkBDsliaNNvVVoADT
+[2025-06-10] 16:26:35 INFO     Успешно отправлен документ <paymentDocument> № 773, референс rdNXugxUwcZzLIKnVFDauGpCNhYQvqxlMGkBDsliaNNvVVoADT
+[2025-06-10] 16:26:45 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:26:45 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2812, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:46 INFO     Пробуем отправить документ, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:47 INFO     Успешно отправлен документ <paymentDocument> № 2812, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:52 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 2812, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:53 INFO     Пробуем отправить документ, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:54 INFO     Успешно отправлен документ <paymentDocument> № 2812, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi
+[2025-06-10] 16:26:58 INFO     Сохранён изменённый ИСХОДЯЩИЙ документ <paymentDocument> № 2812, референс OGGTmdhLVSmyGBwdFXrNbrkUyATDyLCHToAGEXvcYQJUHBbDEi

@@ -1,0 +1,12 @@
+[2025-06-11] 16:34:23 INFO     Запуск программы тестирования
+[2025-06-11] 16:34:23 INFO     Читаем url.cfg
+[2025-06-11] 16:34:23 INFO     Читаем Template_decision.xml
+[2025-06-11] 16:34:23 INFO     Читаем Template_queryDecision.xml
+[2025-06-11] 16:34:23 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-11] 16:34:23 INFO     Читаем Template_incomingDocument.xml
+[2025-06-11] 16:34:25 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:34:26 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2431, референс FFYxgBuNmzUNPrTAkxMSisJIXgBffVAhLPpzZFSdjMbpnDrevv
+[2025-06-11] 16:34:29 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-11] 16:34:29 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8677, референс NBvxBGoiyEYYHptWAQVohlnvRMdTrxQdaVFkXbGpmIIsOKTrgZ
+[2025-06-11] 16:34:30 INFO     Пробуем отправить документ, референс NBvxBGoiyEYYHptWAQVohlnvRMdTrxQdaVFkXbGpmIIsOKTrgZ
+[2025-06-11] 16:34:31 INFO     Успешно отправлен документ <paymentDocument> № 8677, референс NBvxBGoiyEYYHptWAQVohlnvRMdTrxQdaVFkXbGpmIIsOKTrgZ

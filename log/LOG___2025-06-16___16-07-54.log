@@ -1,0 +1,10 @@
+[2025-06-16] 16:07:54 INFO     Запуск программы тестирования
+[2025-06-16] 16:07:54 INFO     Читаем url.cfg
+[2025-06-16] 16:07:54 INFO     Читаем Template_decision.xml
+[2025-06-16] 16:07:54 INFO     Читаем Template_queryDecision.xml
+[2025-06-16] 16:07:54 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-16] 16:07:54 INFO     Читаем Template_incomingDocument.xml
+[2025-06-16] 16:07:55 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-16] 16:07:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2253, референс zREmbpfYnZNHlqrMLkKZMDSGjTvBrcMSWZrbAGFeJEnLMyNYme
+[2025-06-16] 16:07:56 INFO     Пробуем отправить документ, референс zREmbpfYnZNHlqrMLkKZMDSGjTvBrcMSWZrbAGFeJEnLMyNYme
+[2025-06-16] 16:07:57 INFO     Успешно отправлен документ <paymentDocument> № 2253, референс zREmbpfYnZNHlqrMLkKZMDSGjTvBrcMSWZrbAGFeJEnLMyNYme

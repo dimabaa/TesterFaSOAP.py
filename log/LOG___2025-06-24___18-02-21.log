@@ -1,0 +1,20 @@
+[2025-06-24] 18:02:21 INFO     Запуск программы тестирования
+[2025-06-24] 18:02:21 INFO     Читаем url.cfg
+[2025-06-24] 18:02:21 INFO     Читаем Template_decision.xml
+[2025-06-24] 18:02:21 INFO     Читаем Template_queryDecision.xml
+[2025-06-24] 18:02:21 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-24] 18:02:21 INFO     Читаем Template_incomingDocument.xml
+[2025-06-24] 18:02:22 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 18:02:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2593, референс FpgtOMAGzuAqwjxpPrmRzAJAOZOHcyDXpjGTlNPcrSOYjWcEaN
+[2025-06-24] 18:02:23 INFO     Пробуем отправить документ, референс FpgtOMAGzuAqwjxpPrmRzAJAOZOHcyDXpjGTlNPcrSOYjWcEaN
+[2025-06-24] 18:02:24 INFO     Успешно отправлен документ <paymentDocument> № 2593, референс FpgtOMAGzuAqwjxpPrmRzAJAOZOHcyDXpjGTlNPcrSOYjWcEaN
+[2025-06-24] 18:02:27 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 18:02:27 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3560, референс oYkwFDPCesHivwvXogOrouifuMjYWGVwwkEbnujMwLeqTBmOtl
+[2025-06-24] 18:02:28 INFO     Пробуем отправить документ, референс oYkwFDPCesHivwvXogOrouifuMjYWGVwwkEbnujMwLeqTBmOtl
+[2025-06-24] 18:02:29 INFO     Успешно отправлен документ <paymentDocument> № 3560, референс oYkwFDPCesHivwvXogOrouifuMjYWGVwwkEbnujMwLeqTBmOtl
+[2025-06-24] 18:02:31 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-24] 18:02:31 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4464, референс CvRWlgdxowJeldPmoiOvLAQUoKQGrrXKmjajClbrAfospyUfXi
+[2025-06-24] 18:02:31 INFO     Пробуем отправить документ, референс CvRWlgdxowJeldPmoiOvLAQUoKQGrrXKmjajClbrAfospyUfXi
+[2025-06-24] 18:02:32 INFO     Успешно отправлен документ <paymentDocument> № 4464, референс CvRWlgdxowJeldPmoiOvLAQUoKQGrrXKmjajClbrAfospyUfXi
+[2025-06-24] 18:02:33 INFO     Пробуем отправить документ, референс CvRWlgdxowJeldPmoiOvLAQUoKQGrrXKmjajClbrAfospyUfXi
+[2025-06-24] 18:02:33 INFO     Успешно отправлен документ <paymentDocument> № 4464, референс CvRWlgdxowJeldPmoiOvLAQUoKQGrrXKmjajClbrAfospyUfXi

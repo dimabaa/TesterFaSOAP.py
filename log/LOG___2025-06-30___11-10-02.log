@@ -1,0 +1,17 @@
+[2025-06-30] 11:10:02 INFO     Запуск программы тестирования
+[2025-06-30] 11:10:02 INFO     Читаем url.cfg
+[2025-06-30] 11:10:02 INFO     Читаем Template_decision.xml
+[2025-06-30] 11:10:02 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 11:10:02 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 11:10:02 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 11:10:02 INFO     Пробуем отправить документ, референс 
+[2025-06-30] 11:10:02 INFO     Успешно отправлен документ <paymentDocument> № , референс 
+[2025-06-30] 11:10:15 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1664, референс veLkADOO595Yz9bnQSsw64yyBWrBDzaQ9lvSTAuq
+[2025-06-30] 11:10:17 INFO     Пробуем отправить документ, референс veLkADOO595Yz9bnQSsw64yyBWrBDzaQ9lvSTAuq
+[2025-06-30] 11:10:18 INFO     Успешно отправлен документ <paymentDocument> № 1664, референс veLkADOO595Yz9bnQSsw64yyBWrBDzaQ9lvSTAuq
+[2025-06-30] 11:10:19 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8679, референс 5GP9ys8ydW4FQtpQs9WN8U43Cnrw3EeZq8Eygau0
+[2025-06-30] 11:10:20 INFO     Пробуем отправить документ, референс 5GP9ys8ydW4FQtpQs9WN8U43Cnrw3EeZq8Eygau0
+[2025-06-30] 11:10:21 INFO     Успешно отправлен документ <paymentDocument> № 8679, референс 5GP9ys8ydW4FQtpQs9WN8U43Cnrw3EeZq8Eygau0
+[2025-06-30] 11:10:22 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8840, референс sxHRy5RuPf9KXDPQgk2Q9E5OwAQzts5XWAzJwnHS
+[2025-06-30] 11:10:23 INFO     Пробуем отправить документ, референс sxHRy5RuPf9KXDPQgk2Q9E5OwAQzts5XWAzJwnHS
+[2025-06-30] 11:10:23 INFO     Успешно отправлен документ <paymentDocument> № 8840, референс sxHRy5RuPf9KXDPQgk2Q9E5OwAQzts5XWAzJwnHS

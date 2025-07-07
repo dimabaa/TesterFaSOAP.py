@@ -1,0 +1,16 @@
+[2025-06-17] 11:40:16 INFO     Запуск программы тестирования
+[2025-06-17] 11:40:16 INFO     Читаем url.cfg
+[2025-06-17] 11:40:16 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:40:16 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:40:16 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:40:16 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:40:18 INFO     Пробуем отправить запрос <queryDecision> к референсу 
+[2025-06-17] 11:40:18 INFO     Запрос <queryDecision> успешно отправлен к референсу 
+[2025-06-17] 11:40:19 INFO     Пробуем отправить запрос <queryDecision> к референсу 
+[2025-06-17] 11:40:19 INFO     Запрос <queryDecision> успешно отправлен к референсу 
+[2025-06-17] 11:40:21 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:40:21 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1328, референс vlxNDYInQpHXNgAiaNydZWIASpWMiBUhVpmYOPDNlKkANyWroM
+[2025-06-17] 11:40:22 INFO     Пробуем отправить документ, референс vlxNDYInQpHXNgAiaNydZWIASpWMiBUhVpmYOPDNlKkANyWroM
+[2025-06-17] 11:40:22 INFO     Успешно отправлен документ <paymentDocument> № 1328, референс vlxNDYInQpHXNgAiaNydZWIASpWMiBUhVpmYOPDNlKkANyWroM
+[2025-06-17] 11:40:23 INFO     Пробуем отправить запрос <queryDecision> к референсу vlxNDYInQpHXNgAiaNydZWIASpWMiBUhVpmYOPDNlKkANyWroM
+[2025-06-17] 11:40:23 INFO     Запрос <queryDecision> успешно отправлен к референсу vlxNDYInQpHXNgAiaNydZWIASpWMiBUhVpmYOPDNlKkANyWroM

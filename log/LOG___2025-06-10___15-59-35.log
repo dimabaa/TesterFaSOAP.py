@@ -1,0 +1,20 @@
+[2025-06-10] 15:59:35 INFO     Запуск программы тестирования
+[2025-06-10] 15:59:35 INFO     Читаем url.cfg
+[2025-06-10] 15:59:35 INFO     Читаем Template_decision.xml
+[2025-06-10] 15:59:35 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 15:59:35 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 15:59:35 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 15:59:37 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:37 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2667, референс wIlTwBPvkLYfTgijybdCbyHNhfPPXaDdloEflWeLgqRERgGvzr
+[2025-06-10] 15:59:38 INFO     Пробуем отправить документ, референс wIlTwBPvkLYfTgijybdCbyHNhfPPXaDdloEflWeLgqRERgGvzr
+[2025-06-10] 15:59:38 INFO     Успешно отправлен документ <paymentDocument> № 2667, референс wIlTwBPvkLYfTgijybdCbyHNhfPPXaDdloEflWeLgqRERgGvzr
+[2025-06-10] 15:59:40 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:40 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2831, референс WIGmqWjPkXZphNzBenRxlpGxDgHqdlwgJiNEWFoyDhjULaHmhT
+[2025-06-10] 15:59:42 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:42 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6351, референс JgnoYutoBuMayNdYwoLwlfLruPpdAkJvNNvKfwrGHkwzbjIoBE
+[2025-06-10] 15:59:43 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:43 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3445, референс uEzzOhoYnfhRyqQNXEnXltqeBmrHfzKiyWVcgvHbtGokDYLDLn
+[2025-06-10] 15:59:44 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:44 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 2903, референс HZOZiezDysMHoISHdKINwzDriYDGUWNSIUqBUIIzASKrBPBtoB
+[2025-06-10] 15:59:44 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:59:44 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 1930, референс TcCwVJCuBIWSIXtOdqshArxDdLExjtjxXrWrrXKQdbvezKTfJS

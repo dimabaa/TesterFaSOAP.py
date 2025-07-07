@@ -1,0 +1,10 @@
+[2025-06-30] 10:22:47 INFO     Запуск программы тестирования
+[2025-06-30] 10:22:47 INFO     Читаем url.cfg
+[2025-06-30] 10:22:47 INFO     Читаем Template_decision.xml
+[2025-06-30] 10:22:47 INFO     Читаем Template_queryDecision.xml
+[2025-06-30] 10:22:47 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-30] 10:22:47 INFO     Читаем Template_incomingDocument.xml
+[2025-06-30] 10:22:48 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-30] 10:22:48 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9825, референс ka1IDR8kC4mBYVDPIfcTPuCEsdz2PjRhrrC6eZxA
+[2025-06-30] 10:22:49 INFO     Пробуем отправить документ, референс ka1IDR8kC4mBYVDPIfcTPuCEsdz2PjRhrrC6eZxA
+[2025-06-30] 10:22:50 INFO     Успешно отправлен документ <paymentDocument> № 9825, референс ka1IDR8kC4mBYVDPIfcTPuCEsdz2PjRhrrC6eZxA

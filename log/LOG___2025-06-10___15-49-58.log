@@ -1,0 +1,10 @@
+[2025-06-10] 15:49:58 INFO     Запуск программы тестирования
+[2025-06-10] 15:49:58 INFO     Читаем url.cfg
+[2025-06-10] 15:49:58 INFO     Читаем Template_decision.xml
+[2025-06-10] 15:49:58 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 15:49:58 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 15:49:58 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 15:50:00 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 15:50:00 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9729, референс haunnKTNriMPEvBHTaDqAhYHIpczEOovjHOgODdcQJTDFOJVjz
+[2025-06-10] 15:50:00 INFO     Пробуем отправить документ, референс haunnKTNriMPEvBHTaDqAhYHIpczEOovjHOgODdcQJTDFOJVjz
+[2025-06-10] 15:50:01 INFO     Успешно отправлен документ <paymentDocument> № 9729, референс haunnKTNriMPEvBHTaDqAhYHIpczEOovjHOgODdcQJTDFOJVjz

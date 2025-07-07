@@ -1,0 +1,14 @@
+[2025-06-17] 11:36:20 INFO     Запуск программы тестирования
+[2025-06-17] 11:36:20 INFO     Читаем url.cfg
+[2025-06-17] 11:36:20 INFO     Читаем Template_decision.xml
+[2025-06-17] 11:36:20 INFO     Читаем Template_queryDecision.xml
+[2025-06-17] 11:36:20 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-17] 11:36:20 INFO     Читаем Template_incomingDocument.xml
+[2025-06-17] 11:36:21 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:36:21 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8846, референс crtzVsBKlJdROnibQoasPtaQJxZDlcYCMtEZhXpVdMyUXupNNz
+[2025-06-17] 11:36:21 INFO     Пробуем отправить документ, референс crtzVsBKlJdROnibQoasPtaQJxZDlcYCMtEZhXpVdMyUXupNNz
+[2025-06-17] 11:36:22 INFO     Успешно отправлен документ <paymentDocument> № 8846, референс crtzVsBKlJdROnibQoasPtaQJxZDlcYCMtEZhXpVdMyUXupNNz
+[2025-06-17] 11:36:25 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-17] 11:36:25 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5387, референс ucuKbGuPokBQcuUYTXnxotQdlZJdPETxEOVoBmyvjeIdYxrqCF
+[2025-06-17] 11:36:25 INFO     Пробуем отправить документ, референс ucuKbGuPokBQcuUYTXnxotQdlZJdPETxEOVoBmyvjeIdYxrqCF
+[2025-06-17] 11:36:26 INFO     Успешно отправлен документ <paymentDocument> № 5387, референс ucuKbGuPokBQcuUYTXnxotQdlZJdPETxEOVoBmyvjeIdYxrqCF

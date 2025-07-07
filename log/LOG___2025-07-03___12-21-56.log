@@ -1,0 +1,10 @@
+[2025-07-03] 12:21:56 INFO     Запуск программы тестирования
+[2025-07-03] 12:21:56 INFO     Читаем url.cfg
+[2025-07-03] 12:21:56 INFO     Читаем Template_decision.xml
+[2025-07-03] 12:21:56 INFO     Читаем Template_queryDecision.xml
+[2025-07-03] 12:21:56 INFO     Читаем Template_PaymentDocument.xml
+[2025-07-03] 12:21:56 INFO     Читаем Template_incomingDocument.xml
+[2025-07-03] 12:21:56 INFO     Читаем Template_checkDocumentRequest.xml
+[2025-07-03] 12:21:57 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4618, референс SHuA15Rq8OGr8UMKfnU1Z2MVuLDLFHJEqm9HWraz
+[2025-07-03] 12:21:58 INFO     Пробуем отправить документ, референс SHuA15Rq8OGr8UMKfnU1Z2MVuLDLFHJEqm9HWraz
+[2025-07-03] 12:21:59 INFO     Успешно отправлен документ <paymentDocument> № 4618, референс SHuA15Rq8OGr8UMKfnU1Z2MVuLDLFHJEqm9HWraz

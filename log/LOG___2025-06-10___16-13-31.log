@@ -1,0 +1,27 @@
+[2025-06-10] 16:13:31 INFO     Запуск программы тестирования
+[2025-06-10] 16:13:31 INFO     Читаем url.cfg
+[2025-06-10] 16:13:31 INFO     Читаем Template_decision.xml
+[2025-06-10] 16:13:31 INFO     Читаем Template_queryDecision.xml
+[2025-06-10] 16:13:31 INFO     Читаем Template_PaymentDocument.xml
+[2025-06-10] 16:13:31 INFO     Читаем Template_incomingDocument.xml
+[2025-06-10] 16:13:33 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:13:33 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9041, референс XiwFRiMhGNAiNmHIbrVGGobgEnlntGpNzCdLNGHtsvbIMKuWEB
+[2025-06-10] 16:13:35 INFO     Пробуем отправить документ, референс XiwFRiMhGNAiNmHIbrVGGobgEnlntGpNzCdLNGHtsvbIMKuWEB
+[2025-06-10] 16:13:36 INFO     Успешно отправлен документ <paymentDocument> № 9041, референс XiwFRiMhGNAiNmHIbrVGGobgEnlntGpNzCdLNGHtsvbIMKuWEB
+[2025-06-10] 16:14:06 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:14:06 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 16:14:06 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 259, референс LOuNbvbFvUzbodLOBehhUgSdFQVQGDVLTGAuYxVixMJgRBYEhC
+[2025-06-10] 16:14:07 INFO     Пробуем отправить документ, референс LOuNbvbFvUzbodLOBehhUgSdFQVQGDVLTGAuYxVixMJgRBYEhC
+[2025-06-10] 16:14:08 INFO     Успешно отправлен документ <paymentDocument> № 259, референс LOuNbvbFvUzbodLOBehhUgSdFQVQGDVLTGAuYxVixMJgRBYEhC
+[2025-06-10] 16:14:08 INFO     Пробуем отправить документ, референс LOuNbvbFvUzbodLOBehhUgSdFQVQGDVLTGAuYxVixMJgRBYEhC
+[2025-06-10] 16:14:09 INFO     Успешно отправлен документ <paymentDocument> № 259, референс LOuNbvbFvUzbodLOBehhUgSdFQVQGDVLTGAuYxVixMJgRBYEhC
+[2025-06-10] 16:14:12 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:14:12 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 16:14:12 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8770, референс gUcKbKecBmpczUSpUIpCeqmGzmFsMpSYbjijYuFyCzSJASbPfD
+[2025-06-10] 16:14:14 INFO     Пробуем отправить документ, референс gUcKbKecBmpczUSpUIpCeqmGzmFsMpSYbjijYuFyCzSJASbPfD
+[2025-06-10] 16:14:15 INFO     Успешно отправлен документ <paymentDocument> № 8770, референс gUcKbKecBmpczUSpUIpCeqmGzmFsMpSYbjijYuFyCzSJASbPfD
+[2025-06-10] 16:14:19 INFO     * * * * * * * * * * * * * * * * * * * *
+[2025-06-10] 16:14:19 INFO     Генерация документа с ФИКС Плательщик
+[2025-06-10] 16:14:19 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 418, референс FUxmlkxRkgSGiQBpkfWaLPPspVILfTgmCcDVEFqnDIZHWiuWCA
+[2025-06-10] 16:14:22 INFO     Пробуем отправить документ, референс FUxmlkxRkgSGiQBpkfWaLPPspVILfTgmCcDVEFqnDIZHWiuWCA
+[2025-06-10] 16:14:23 INFO     Успешно отправлен документ <paymentDocument> № 418, референс FUxmlkxRkgSGiQBpkfWaLPPspVILfTgmCcDVEFqnDIZHWiuWCA
