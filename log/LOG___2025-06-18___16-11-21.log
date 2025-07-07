@@ -1,8 +1,0 @@
-[2025-06-18] 16:11:21 INFO     Запуск программы тестирования
-[2025-06-18] 16:11:21 INFO     Читаем url.cfg
-[2025-06-18] 16:11:21 INFO     Читаем Template_decision.xml
-[2025-06-18] 16:11:21 INFO     Читаем Template_queryDecision.xml
-[2025-06-18] 16:11:21 INFO     Читаем Template_PaymentDocument.xml
-[2025-06-18] 16:11:21 INFO     Читаем Template_incomingDocument.xml
-[2025-06-18] 16:11:26 INFO     * * * * * * * * * * * * * * * * * * * *
-[2025-06-18] 16:11:26 INFO     Документ НЕ сгенерирован, введите ключ активации

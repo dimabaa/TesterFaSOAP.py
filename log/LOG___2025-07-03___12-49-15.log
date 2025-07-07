@@ -1,9 +1,0 @@
-[2025-07-03] 12:49:15 INFO     Запуск программы тестирования
-[2025-07-03] 12:49:15 INFO     Читаем url.cfg
-[2025-07-03] 12:49:15 INFO     Читаем Template_decision.xml
-[2025-07-03] 12:49:15 INFO     Читаем Template_queryDecision.xml
-[2025-07-03] 12:49:15 INFO     Читаем Template_PaymentDocument.xml
-[2025-07-03] 12:49:15 INFO     Читаем Template_incomingDocument.xml
-[2025-07-03] 12:49:15 INFO     Читаем Template_checkDocumentRequest.xml
-[2025-07-03] 12:49:16 INFO     Пробуем отправить документ
-[2025-07-03] 12:49:17 INFO     Документ успешно отправлен

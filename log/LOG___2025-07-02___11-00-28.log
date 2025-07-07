@@ -1,7 +1,0 @@
-[2025-07-02] 11:00:28 INFO     Запуск программы тестирования
-[2025-07-02] 11:00:28 INFO     Читаем url.cfg
-[2025-07-02] 11:00:28 INFO     Читаем Template_decision.xml
-[2025-07-02] 11:00:28 INFO     Читаем Template_queryDecision.xml
-[2025-07-02] 11:00:28 INFO     Читаем Template_PaymentDocument.xml
-[2025-07-02] 11:00:28 INFO     Читаем Template_incomingDocument.xml
-[2025-07-02] 11:00:39 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7625, референс E7oF5IqD2xqqq9vAm8fOMvpEbzyQm0ZE4D2WtojU

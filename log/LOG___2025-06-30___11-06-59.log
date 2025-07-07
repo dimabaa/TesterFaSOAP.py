@@ -1,9 +1,0 @@
-[2025-06-30] 11:06:59 INFO     Запуск программы тестирования
-[2025-06-30] 11:06:59 INFO     Читаем url.cfg
-[2025-06-30] 11:06:59 INFO     Читаем Template_decision.xml
-[2025-06-30] 11:06:59 INFO     Читаем Template_queryDecision.xml
-[2025-06-30] 11:06:59 INFO     Читаем Template_PaymentDocument.xml
-[2025-06-30] 11:06:59 INFO     Читаем Template_incomingDocument.xml
-[2025-06-30] 11:06:59 INFO     Пробуем отправить документ, референс 
-[2025-06-30] 11:06:59 INFO     Успешно отправлен документ <paymentDocument> № , референс 
-[2025-06-30] 11:07:01 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 7442, референс WgHDK0O6hEcrIaOOzbtGJvRKyo15m6WbbzrdwW76

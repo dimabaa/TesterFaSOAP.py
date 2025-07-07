@@ -1,8 +1,0 @@
-[2025-07-03] 18:00:18 INFO     Запуск программы тестирования
-[2025-07-03] 18:00:18 INFO     Читаем url.cfg
-[2025-07-03] 18:00:18 INFO     Читаем Template_decision.xml
-[2025-07-03] 18:00:18 INFO     Читаем Template_queryDecision.xml
-[2025-07-03] 18:00:18 INFO     Читаем Template_PaymentDocument.xml
-[2025-07-03] 18:00:18 INFO     Читаем Template_incomingDocument.xml
-[2025-07-03] 18:00:18 INFO     Читаем Template_checkDocumentRequest.xml
-[2025-07-03] 18:00:37 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3703, референс QpIoZJiimzSxyIeYEIIjmSZhXXL4Z2odZAxaOSY6

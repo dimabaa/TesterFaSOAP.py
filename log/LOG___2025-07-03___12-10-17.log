@@ -1,8 +1,0 @@
-[2025-07-03] 12:10:17 INFO     Запуск программы тестирования
-[2025-07-03] 12:10:17 INFO     Читаем url.cfg
-[2025-07-03] 12:10:17 INFO     Читаем Template_decision.xml
-[2025-07-03] 12:10:17 INFO     Читаем Template_queryDecision.xml
-[2025-07-03] 12:10:17 INFO     Читаем Template_PaymentDocument.xml
-[2025-07-03] 12:10:17 INFO     Читаем Template_incomingDocument.xml
-[2025-07-03] 12:10:17 INFO     Читаем Template_checkDocumentRequest.xml
-[2025-07-03] 12:10:19 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6757, референс PIbUaikL3FVMiMApUnyyp7t42oY1opA1hMlq1dUY
