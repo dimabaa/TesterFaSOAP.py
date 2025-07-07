@@ -1,0 +1,10 @@
+&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;
+&lt;decision&gt;
+&lt;systemID&gt;TesterFaPy&lt;/systemID&gt;
+&lt;documentType&gt;PDR&lt;/documentType&gt;
+&lt;docRef&gt;{{docRef}}&lt;/docRef&gt;
+&lt;result&gt;{{decision}}&lt;/result&gt;
+&lt;comment&gt;Customer confirmed payment&lt;/comment&gt;
+&lt;changeDate&gt;{{time}}&lt;/changeDate&gt;
+&lt;operator&gt;Operator Ivanova&lt;/operator&gt;
+&lt;/decision&gt;
