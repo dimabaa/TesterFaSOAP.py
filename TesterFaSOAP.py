@@ -21,7 +21,7 @@ fixPayer = 0
 
 # Настройки логирования
 logging.basicConfig(
-    filename=r".\log\LOG_" + str(time.strftime('%Y-%m-%d___%H-%M-%S')) + ".log",
+    filename=r".\log\LOG___" + str(time.strftime('%Y-%m-%d___%H-%M-%S')) + ".log",
     filemode="w",
     format='%(asctime)s %(levelname)-8s %(message)s',
     level=logging.INFO,
