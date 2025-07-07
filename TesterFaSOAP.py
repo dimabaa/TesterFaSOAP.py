@@ -13,7 +13,7 @@ from russian_names import RussianNames
 
 version = 1.2
 window = Tk()
-window.title("Бизнес-тестер Fraud-Analyze | v." + str(version))
+window.title("Generator requests for Fraud-Analyze | v." + str(version))
 window.geometry('1196x810')
 window.iconbitmap(r'.\cfg\ok.ico')
 
