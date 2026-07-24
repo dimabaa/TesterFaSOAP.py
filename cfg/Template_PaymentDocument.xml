@@ -37,6 +37,7 @@
         &lt;osActualUpdate&gt;true&lt;/osActualUpdate&gt;
         &lt;osUpdatable&gt;true&lt;/osUpdatable&gt;
         &lt;outerKeyStorage&gt;true&lt;/outerKeyStorage&gt;
+		&lt;PayerPhoneNumber&gt;{{payerPhone}}&lt;/PayerPhoneNumber&gt;
     &lt;/clientDeviceInfo&gt;
 	
 	&lt;payer action="UPDATE"&gt;
@@ -78,12 +79,20 @@
             &lt;value&gt;false&lt;/value&gt;
         &lt;/field&gt;
         &lt;field&gt;
+            &lt;name&gt;PayerPhoneNumber&lt;/name&gt;
+            &lt;value&gt;{{payerPhone}}&lt;/value&gt;
+        &lt;/field&gt;
+        &lt;field&gt;
+            &lt;name&gt;receiverPhoneNumber&lt;/name&gt;
+            &lt;value&gt;79191111111&lt;/value&gt;
+        &lt;/field&gt;
+        &lt;field&gt;
             &lt;name&gt;STMQUERYEXIST&lt;/name&gt;
             &lt;value&gt;1&lt;/value&gt;
         &lt;/field&gt;
         &lt;field&gt;
             &lt;name&gt;ACCOUNTREST&lt;/name&gt;
-            &lt;value&gt;1000.0&lt;/value&gt;
+            &lt;value&gt;100000&lt;/value&gt;
         &lt;/field&gt;
         &lt;field&gt;
             &lt;name&gt;REFUSEDDOCCOUNT&lt;/name&gt;
@@ -260,6 +269,10 @@
         &lt;field&gt;
             &lt;name&gt;SENDTYPECODE&lt;/name&gt;
             &lt;value&gt;_SENDTYPECODE_&lt;/value&gt;
+        &lt;/field&gt;
+        &lt;field&gt;
+            &lt;name&gt;amountaccount&lt;/name&gt;
+            &lt;value&gt;{{amount}}&lt;/value&gt;
         &lt;/field&gt;
     &lt;/additional&gt;
 &lt;/paymentDocument&gt;
