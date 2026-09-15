@@ -1,7 +1,0 @@
-[2026-09-07] 13:55:48 INFO     Запуск программы тестирования
-[2026-09-07] 13:55:48 INFO     Читаем url.cfg
-[2026-09-07] 13:55:48 INFO     Читаем Template_decision.xml
-[2026-09-07] 13:55:48 INFO     Читаем Template_queryDecision.xml
-[2026-09-07] 13:55:48 INFO     Читаем Template_PaymentDocument.xml
-[2026-09-07] 13:55:48 INFO     Читаем Template_incomingDocument.xml
-[2026-09-07] 13:55:48 INFO     Читаем Template_checkDocumentRequest.xml
