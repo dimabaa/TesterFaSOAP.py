@@ -1,0 +1,9 @@
+[2026-08-10] 22:59:03 INFO     Запуск программы тестирования
+[2026-08-10] 22:59:03 INFO     Читаем url.cfg
+[2026-08-10] 22:59:03 INFO     Читаем Template_decision.xml
+[2026-08-10] 22:59:03 INFO     Читаем Template_queryDecision.xml
+[2026-08-10] 22:59:03 INFO     Читаем Template_PaymentDocument.xml
+[2026-08-10] 22:59:03 INFO     Читаем Template_incomingDocument.xml
+[2026-08-10] 22:59:03 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-08-10] 22:59:06 INFO     Пробуем отправить запрос <decision> к референсу 
+[2026-08-10] 22:59:06 INFO     Запрос <decision> успешно отправлен к референсу 

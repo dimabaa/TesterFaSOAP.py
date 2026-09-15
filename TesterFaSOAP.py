@@ -1,4 +1,5 @@
 import sys
+import os
 from tkinter import *
 from tkinter.filedialog import asksaveasfilename
 from tkinter.ttk import Combobox
@@ -15,6 +16,15 @@ from russian_names import RussianNames
 import re
 from xml.etree import ElementTree as ET
 
+# Получаем директорию текущего скрипта
+script_dir = os.path.dirname(os.path.abspath(__file__))
+cfg_dir = os.path.join(script_dir, "cfg")
+log_dir = os.path.join(script_dir, "log")
+
+# Создаем папки, если их нет
+os.makedirs(cfg_dir, exist_ok=True)
+os.makedirs(log_dir, exist_ok=True)
+
 # Дальше ваш код
 print("Программа запущена успешно")
 
@@ -22,13 +32,13 @@ version = 1.3
 window = Tk()
 window.title("Tester Fraud-Analyze")
 window.geometry('1196x830')
-window.iconbitmap(r'.\cfg\ok.ico')
+window.iconbitmap(os.path.join(cfg_dir, 'ok.ico'))
 
 fixPayer = 0
 
 # Настройки логирования
 logging.basicConfig(
-    filename=r".\log\LOG___" + str(time.strftime('%Y-%m-%d___%H-%M-%S')) + ".log",
+    filename=os.path.join(log_dir, "LOG___" + str(time.strftime('%Y-%m-%d___%H-%M-%S')) + ".log"),
     filemode="w",
     format='%(asctime)s %(levelname)-8s %(message)s',
     level=logging.INFO,
@@ -37,12 +47,12 @@ logging.basicConfig(
 logging.info("Запуск программы тестирования")
 
 # Получение URL из конфига
-with open(r".\cfg\url.cfg", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "url.cfg"), encoding='utf-8') as file:
     url_cfg = file.read()
     logging.info("Читаем url.cfg")
 
 # Чтение шаблонов документов\запросов
-with open(r".\cfg\Template_decision.xml", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "Template_decision.xml"), encoding='utf-8') as file:
     Template_decision = file.read()
     logging.info("Читаем Template_decision.xml")
 
@@ -50,7 +60,7 @@ decision = """<?xml version='1.0' encoding='UTF-8'?>
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
 <S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_decision + """</arg0></ns2:process></S:Body></S:Envelope>"""
 
-with open(r".\cfg\Template_queryDecision.xml", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "Template_queryDecision.xml"), encoding='utf-8') as file:
     Template_queryDecision = file.read()
     logging.info("Читаем Template_queryDecision.xml")
 
@@ -58,21 +68,21 @@ query_result = """<?xml version='1.0' encoding='UTF-8'?>
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
 <S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_queryDecision + """</arg0></ns2:process></S:Body></S:Envelope>"""
 
-with open(r".\cfg\Template_PaymentDocument.xml", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "Template_PaymentDocument.xml"), encoding='utf-8') as file:
     Template_PaymentDocument = file.read()
     logging.info("Читаем Template_PaymentDocument.xml")
 list_bucket_result = """<?xml version='1.0' encoding='UTF-8'?>
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
 <S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_PaymentDocument + """</arg0></ns2:process></S:Body></S:Envelope>"""
 
-with open(r".\cfg\Template_incomingDocument.xml", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "Template_incomingDocument.xml"), encoding='utf-8') as file:
     Template_incomingDocument = file.read()
     logging.info("Читаем Template_incomingDocument.xml")
 incomingDocument = """<?xml version='1.0' encoding='UTF-8'?>
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
 <S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_incomingDocument + """</arg0></ns2:process></S:Body></S:Envelope>"""
 
-with open(r".\cfg\Template_DC_checkDocumentRequest.xml", encoding='utf-8') as file:
+with open(os.path.join(cfg_dir, "Template_DC_checkDocumentRequest.xml"), encoding='utf-8') as file:
     Template_checkDocumentRequest = file.read()
     logging.info("Читаем Template_checkDocumentRequest.xml")
 checkDocumentRequest = """<?xml version='1.0' encoding='UTF-8'?>
@@ -80,9 +90,30 @@ checkDocumentRequest = """<?xml version='1.0' encoding='UTF-8'?>
 <S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_checkDocumentRequest + """</arg0></ns2:process></S:Body></S:Envelope>"""
 
 
+# Запрос проверки агента ТСП использует тот же SOAP-метод process.
+with open(os.path.join(cfg_dir, "requestIPOAgentTSP.xml"), encoding='utf-8') as file:
+    Template_requestIPOAgentTSP = file.read()
+    logging.info("Читаем requestIPOAgentTSP.xml")
+requestIPOAgentTSP = """<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+<S:Body><ns2:process xmlns:ns2="http://ws.socket.fraud.bssys.com/"><arg0>""" + Template_requestIPOAgentTSP + """</arg0></ns2:process></S:Body></S:Envelope>"""
+
+
+def render_ipo_agent_tsp():
+    return Template(requestIPOAgentTSP).render(
+        time=format_time(),
+        payerId=txt_idpayer.get(),
+        payerName=txt_payer.get(),
+        receiverName=txt_receiver.get(),
+        payerAccount=txt_payerAccount.get(),
+        docRef=txt_ref.get(),
+        payerPhone=txt_phone.get(),
+    )
+
+
 # Сохранение URL в конфиг
 def save_url():
-    with open(r".\cfg\url.cfg", "w") as file:
+    with open(os.path.join(cfg_dir, "url.cfg"), "w") as file:
         file.write(txt_url.get())
         logging.info("URL изменён")
 
@@ -108,6 +139,7 @@ def random_char_min():
 
 # Генерация и отправка документа
 def gen_doc_and_send_request():
+    txt_answer.configure(state="normal")
     txt_answer.delete("1.0", tk.END)
     txt_total.delete("1.0", tk.END)
     x = int(spin_sum_request.get())
@@ -115,7 +147,7 @@ def gen_doc_and_send_request():
     i = 1
     while i <= x:
         i = i + 1
-        template = Template(list_bucket_result)
+        template = Template(requestIPOAgentTSP if out_or_in.get() == "requestIPOAgentTSP" else list_bucket_result)
         result = template.render(
             documentType=documentType.get(),
             phys_or_jur=phys_or_jur.get(),
@@ -280,6 +312,10 @@ def gen_doc():
                                      "Если редактируете сам запрос (тело) - сразу <Отправить запрос>")
         logging.info(
             "Сгенерирован новый ИСХОДЯЩИЙ документ № " + str(txt_docnum.get()) + ", референс " + str(txt_ref.get()))
+    elif out_or_in.get() == "requestIPOAgentTSP":
+        txt_request.insert(tk.INSERT, render_ipo_agent_tsp())
+        txt_answer.insert(tk.INSERT, "Сгенерирован новый requestIPOAgentTSP, нажмите кнопку\n<Отправка документа>")
+        logging.info("Сгенерирован новый requestIPOAgentTSP, референс " + str(txt_ref.get()))
     else:
         sbp_or_no.current(0)
         phys_or_jur.current(0)
@@ -339,6 +375,10 @@ def save_doc():
         txt_answer.insert(tk.INSERT, "Изменённый ИСХОДЯЩИЙ документ сохранён, нажмите кнопку\n<Отправка документа>")
         logging.info("Сохранён изменённый ИСХОДЯЩИЙ документ <" + str(out_or_in.get()) + "> № " + str(
             txt_docnum.get()) + ", референс " + str(txt_ref.get()))
+    elif out_or_in.get() == "requestIPOAgentTSP":
+        txt_request.insert(tk.INSERT, render_ipo_agent_tsp())
+        txt_answer.insert(tk.INSERT, "Изменённый документ сохранён: requestIPOAgentTSP, нажмите кнопку\n<Отправка документа>")
+        logging.info("Изменённый документ сохранён: requestIPOAgentTSP, референс " + str(txt_ref.get()))
     else:
         sbp_or_no.current(0)
         phys_or_jur.current(0)
@@ -371,6 +411,7 @@ def send_request():
     global response, last_execution_time
     txt_answer.configure(state='normal')
     txt_answer.delete("1.0", tk.END)
+    txt_total.configure(state="normal")
     txt_total.delete("1.0", tk.END)
     start_time = time.time()
     endpoint = txt_url.get()
@@ -387,7 +428,9 @@ def send_request():
         logging.debug("========== Тело документа ==========\n" + str(body))
         txt_total.configure(bg="#90EE90")
         txt_history.configure(state="normal")
-        if ((sbp_or_no.get() == "1") or (sbp_or_no.get() == "2")) and documentType.get() == "PDR":
+        if out_or_in.get() == "requestIPOAgentTSP":
+            txt_history.insert("1.0", "[requestIPOAgentTSP] id " + txt_idpayer.get() + " | " + txt_ref.get() + "\n", "query")
+        elif ((sbp_or_no.get() == "1") or (sbp_or_no.get() == "2")) and documentType.get() == "PDR":
             txt_history.insert("1.0",
                                "id " + txt_idpayer.get() + " | N " + txt_docnum.get() + " | СБП " + sbp_or_no.get() + " итерация\n",
                                "sbp")
@@ -414,14 +457,17 @@ def send_request():
         txt_total.insert(tk.INSERT, 'Ошибка: Timeout')
         logging.info(str(endpoint) + " ---> Ошибка: Timeout")
         txt_total.configure(bg="#FA8072")
+        return
     except requests.exceptions.TooManyRedirects:
         txt_total.insert(tk.INSERT, 'Ошибка: TooManyRedirects')
         logging.info(str(endpoint) + " ---> Ошибка: TooManyRedirects")
         txt_total.configure(bg="#FA8072")
+        return
     except requests.exceptions.RequestException as e:
         txt_total.insert(tk.INSERT, 'Ошибка: RequestException')
         logging.info(str(endpoint) + " ---> Ошибка: RequestException")
         txt_total.configure(bg="#FA8072")
+        return
 
     response_decode = response.content
     response_decode = (response_decode.decode('utf-8'))
@@ -804,7 +850,7 @@ version.grid(column=3, row=0, sticky="E", padx=14)
 label_out_or_in = Label(text="ИСХ / ВХ / ЦР (DC)", fg="#eee", bg="#333", width=18)
 label_out_or_in.grid(column=0, row=1)
 out_or_in = Combobox(window, width=22, state="readonly")
-out_or_in['values'] = ("paymentDocument", "incomingDocument")
+out_or_in['values'] = ("paymentDocument", "incomingDocument", "requestIPOAgentTSP")
 out_or_in.current(0)  # установите вариант по умолчанию
 out_or_in.grid(column=1, row=1, sticky="W", padx=4)
 
@@ -1086,7 +1132,7 @@ def open_request_window():
     top = tk.Toplevel()
     top.title("Редактирование запроса")
     top.geometry("900x700")
-    top.iconbitmap(r'.\cfg\ok.ico')
+    top.iconbitmap(os.path.join(cfg_dir, 'ok.ico'))
     top.focus_force()
 
     def save_changes():
@@ -1321,7 +1367,7 @@ button.grid(column=1, row=20, sticky=W)
 def open_answer_window():
     top = tk.Toplevel()
     top.title("Тело ответа (только просмотр)")
-    top.iconbitmap(r'.\cfg\ok.ico')
+    top.iconbitmap(os.path.join(cfg_dir, 'ok.ico'))
     top.focus_force()
     top.grab_set()
 
@@ -1542,7 +1588,7 @@ window.after(60000, periodic_host_check)
 """
 
 def check_expiry_date():
-    expiry_date = datetime.datetime(2026, 8, 30, 23, 59, 59)  # datetime.datetime
+    expiry_date = datetime.datetime(2026, 10, 30, 23, 59, 59)  # datetime.datetime
     if datetime.datetime.now() > expiry_date:
         print("=" * 50)
         print("error")

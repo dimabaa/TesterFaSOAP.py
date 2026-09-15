@@ -1,0 +1,56 @@
+[2026-08-11] 11:34:43 INFO     Запуск программы тестирования
+[2026-08-11] 11:34:43 INFO     Читаем url.cfg
+[2026-08-11] 11:34:43 INFO     Читаем Template_decision.xml
+[2026-08-11] 11:34:43 INFO     Читаем Template_queryDecision.xml
+[2026-08-11] 11:34:43 INFO     Читаем Template_PaymentDocument.xml
+[2026-08-11] 11:34:43 INFO     Читаем Template_incomingDocument.xml
+[2026-08-11] 11:34:43 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-08-11] 11:34:48 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3856, референс D6tXQOGnLzJ2Ymg4GL7jILXbZddexe1QvKYpw3Xq
+[2026-08-11] 11:34:49 INFO     Пробуем отправить документ, референс D6tXQOGnLzJ2Ymg4GL7jILXbZddexe1QvKYpw3Xq
+[2026-08-11] 11:34:56 INFO     Успешно отправлен документ <paymentDocument> № 3856, референс D6tXQOGnLzJ2Ymg4GL7jILXbZddexe1QvKYpw3Xq
+[2026-08-11] 11:34:56 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 11:36:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 95, референс jbEf47pRguHsVDmxx5iXbTpOUqDQ3AwvwrsoaM0f
+[2026-08-11] 11:36:54 INFO     Пробуем отправить документ, референс jbEf47pRguHsVDmxx5iXbTpOUqDQ3AwvwrsoaM0f
+[2026-08-11] 11:36:57 INFO     Успешно отправлен документ <paymentDocument> № 95, референс jbEf47pRguHsVDmxx5iXbTpOUqDQ3AwvwrsoaM0f
+[2026-08-11] 11:36:57 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 11:38:18 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3139, референс BPiapGM10MLlrmYvD2DP8mQ9CU4QULBNzSjtfhBx
+[2026-08-11] 11:39:59 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 11:40:01 INFO     Пробуем отправить документ, референс BPiapGM10MLlrmYvD2DP8mQ9CU4QULBNzSjtfhBx
+[2026-08-11] 11:40:08 INFO     Успешно отправлен документ <paymentDocument> № 3139, референс BPiapGM10MLlrmYvD2DP8mQ9CU4QULBNzSjtfhBx
+[2026-08-11] 11:40:08 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 11:43:59 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 8549, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:44:03 INFO     Пробуем отправить документ, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:44:06 INFO     Успешно отправлен документ <paymentDocument> № 8549, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:44:06 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 11:48:46 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 11:48:48 INFO     Пробуем отправить документ, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:48:48 INFO     Успешно отправлен документ <paymentDocument> № 8549, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:48:48 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 11:49:58 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 11:50:00 INFO     Пробуем отправить документ, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:50:00 INFO     Успешно отправлен документ <paymentDocument> № 8549, референс sufAe93HxDHPdpitgCW8WGoqwlHdhKetYJGvjOaH
+[2026-08-11] 11:50:00 INFO     Тег &lt;result&gt; не найден в ответе
+[2026-08-11] 11:50:04 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 4491, референс rRcNIN0j7Btd1vl0a7KlK5WLBJ1898XOMo6tfUU8
+[2026-08-11] 11:51:04 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 11:51:06 INFO     Пробуем отправить документ, референс rRcNIN0j7Btd1vl0a7KlK5WLBJ1898XOMo6tfUU8
+[2026-08-11] 11:51:06 INFO     Успешно отправлен документ <paymentDocument> № 4491, референс rRcNIN0j7Btd1vl0a7KlK5WLBJ1898XOMo6tfUU8
+[2026-08-11] 11:51:06 INFO     Тег &lt;result&gt; не найден в ответе
+[2026-08-11] 11:51:11 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9467, референс 7m7NPqjeowsmf8HTEnWvIkBs3eHIWCxV9HcXxGSo
+[2026-08-11] 11:52:44 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 11:52:45 INFO     Пробуем отправить документ, референс 7m7NPqjeowsmf8HTEnWvIkBs3eHIWCxV9HcXxGSo
+[2026-08-11] 11:52:47 INFO     Успешно отправлен документ <paymentDocument> № 9467, референс 7m7NPqjeowsmf8HTEnWvIkBs3eHIWCxV9HcXxGSo
+[2026-08-11] 11:52:47 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 15:28:13 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 5125, референс EzBPISQwZHfWtWxQjcsW4UwzdH61Sl1qFQjkdLwf
+[2026-08-11] 15:29:45 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 15:29:47 INFO     Пробуем отправить документ, референс EzBPISQwZHfWtWxQjcsW4UwzdH61Sl1qFQjkdLwf
+[2026-08-11] 15:29:49 INFO     Успешно отправлен документ <paymentDocument> № 5125, референс EzBPISQwZHfWtWxQjcsW4UwzdH61Sl1qFQjkdLwf
+[2026-08-11] 15:29:49 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 15:47:23 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 15:47:25 INFO     Пробуем отправить документ, референс EzBPISQwZHfWtWxQjcsW4UwzdH61Sl1qFQjkdLwf
+[2026-08-11] 15:47:28 INFO     Успешно отправлен документ <paymentDocument> № 5125, референс EzBPISQwZHfWtWxQjcsW4UwzdH61Sl1qFQjkdLwf
+[2026-08-11] 15:47:28 INFO     Найден результат обработки: 1 — OK
+[2026-08-11] 15:48:06 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6504, референс yt5oi0wPOvT8bRxxxAAUlEas3czBURVMpRpWApbj
+[2026-08-11] 15:49:03 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 15:49:04 INFO     Пробуем отправить документ, референс yt5oi0wPOvT8bRxxxAAUlEas3czBURVMpRpWApbj
+[2026-08-11] 15:49:07 INFO     Успешно отправлен документ <paymentDocument> № 6504, референс yt5oi0wPOvT8bRxxxAAUlEas3czBURVMpRpWApbj
+[2026-08-11] 15:49:07 INFO     Найден результат обработки: 1 — OK

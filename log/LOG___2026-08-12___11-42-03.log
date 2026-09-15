@@ -1,0 +1,11 @@
+[2026-08-12] 11:42:03 INFO     Запуск программы тестирования
+[2026-08-12] 11:42:03 INFO     Читаем url.cfg
+[2026-08-12] 11:42:03 INFO     Читаем Template_decision.xml
+[2026-08-12] 11:42:03 INFO     Читаем Template_queryDecision.xml
+[2026-08-12] 11:42:03 INFO     Читаем Template_PaymentDocument.xml
+[2026-08-12] 11:42:03 INFO     Читаем Template_incomingDocument.xml
+[2026-08-12] 11:42:03 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-08-12] 11:42:38 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3066, референс ouYdXiPSXmIetk6T3My16wiDoswTIaDexE8cyCDa
+[2026-08-12] 11:42:40 INFO     Пробуем отправить документ, референс ouYdXiPSXmIetk6T3My16wiDoswTIaDexE8cyCDa
+[2026-08-12] 11:42:43 INFO     Успешно отправлен документ <paymentDocument> № 3066, референс ouYdXiPSXmIetk6T3My16wiDoswTIaDexE8cyCDa
+[2026-08-12] 11:42:43 INFO     Найден результат обработки: 2 — FRAUD

@@ -1,0 +1,15 @@
+[2026-08-03] 15:32:07 INFO     Запуск программы тестирования
+[2026-08-03] 15:32:07 INFO     Читаем url.cfg
+[2026-08-03] 15:32:07 INFO     Читаем Template_decision.xml
+[2026-08-03] 15:32:07 INFO     Читаем Template_queryDecision.xml
+[2026-08-03] 15:32:07 INFO     Читаем Template_PaymentDocument.xml
+[2026-08-03] 15:32:07 INFO     Читаем Template_incomingDocument.xml
+[2026-08-03] 15:32:07 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-08-03] 15:32:10 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6954, референс 2KzllVBhvNaPB4vECGmgSRNv1TjzfkxjHQNEOYIK
+[2026-08-03] 15:32:12 INFO     Пробуем отправить документ, референс 2KzllVBhvNaPB4vECGmgSRNv1TjzfkxjHQNEOYIK
+[2026-08-03] 15:32:15 INFO     Успешно отправлен документ <paymentDocument> № 6954, референс 2KzllVBhvNaPB4vECGmgSRNv1TjzfkxjHQNEOYIK
+[2026-08-03] 15:32:15 INFO     Найден результат обработки: 1 — OK
+[2026-08-03] 15:54:01 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 3011, референс WKDWr7vlxeDK1m0H0J0GHXZESIY3uCqr0nkjMKQj
+[2026-08-03] 15:54:02 INFO     Пробуем отправить документ, референс WKDWr7vlxeDK1m0H0J0GHXZESIY3uCqr0nkjMKQj
+[2026-08-03] 15:54:04 INFO     Успешно отправлен документ <paymentDocument> № 3011, референс WKDWr7vlxeDK1m0H0J0GHXZESIY3uCqr0nkjMKQj
+[2026-08-03] 15:54:04 INFO     Найден результат обработки: 1 — OK

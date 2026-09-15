@@ -1,0 +1,25 @@
+[2026-07-27] 16:23:40 INFO     Запуск программы тестирования
+[2026-07-27] 16:23:40 INFO     Читаем url.cfg
+[2026-07-27] 16:23:40 INFO     Читаем Template_decision.xml
+[2026-07-27] 16:23:40 INFO     Читаем Template_queryDecision.xml
+[2026-07-27] 16:23:40 INFO     Читаем Template_PaymentDocument.xml
+[2026-07-27] 16:23:40 INFO     Читаем Template_incomingDocument.xml
+[2026-07-27] 16:23:40 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-07-27] 16:23:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6329, референс Gp2PtgCJtlDr4ohDhMuyzI0vg9Z51bBkOgVzL1Ca
+[2026-07-27] 16:25:06 INFO     Пробуем отправить документ, референс Gp2PtgCJtlDr4ohDhMuyzI0vg9Z51bBkOgVzL1Ca
+[2026-07-27] 16:25:14 INFO     Успешно отправлен документ <paymentDocument> № 6329, референс Gp2PtgCJtlDr4ohDhMuyzI0vg9Z51bBkOgVzL1Ca
+[2026-07-27] 16:25:14 INFO     Найден результат обработки: 1 — OK
+[2026-07-27] 16:25:52 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:52 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6330, референс mfb6BocLvS9aT7JtvBK8NW1LSsZKHxKRCcW11t0d
+[2026-07-27] 16:25:53 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:53 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6331, референс mqiGRMvFWLPOzKK64VYnJeegpG7m6VSW0VmHAnUw
+[2026-07-27] 16:25:54 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:54 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6332, референс M8xjFtgmeyvNxbv4UqmdpmGP8IliGaCuk2NT6BGA
+[2026-07-27] 16:25:54 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:54 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6333, референс WzNePudQJHBJ2Q7ZqEgB7HiuGe4XcMAaFnBAbQGv
+[2026-07-27] 16:25:55 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6334, референс FPBTScxkjeX1LHzjxNn8LMypRW9tyezZNyaDOrtT
+[2026-07-27] 16:25:55 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:55 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6335, референс A5uQOmOWYdMBV6Z5COQyPe5ZsCMRw2ScCsX7GgYb
+[2026-07-27] 16:25:56 INFO     Генерация документа с ФИКС Плательщик
+[2026-07-27] 16:25:56 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 6336, референс ItVEkZb9UoJpaezWSu4QqVfN3GU9lWSYEUZGOzZj

@@ -29,15 +29,23 @@
     
     &lt;/payment&gt;
 	
-	&lt;clientDeviceInfo&gt;
+    &lt;clientDeviceInfo&gt;
+        &lt;ip&gt;203.0.113.10&lt;/ip&gt;
+        &lt;mac&gt;00:1A:2B:3C:4D:5E&lt;/mac&gt;
         &lt;avpActive&gt;true&lt;/avpActive&gt;
-        &lt;ip&gt;190.104.228.221&lt;/ip&gt;
-        &lt;mac&gt;d8-0e-23-df-e1-35&lt;/mac&gt;
         &lt;notRemoteAccess&gt;true&lt;/notRemoteAccess&gt;
         &lt;osActualUpdate&gt;true&lt;/osActualUpdate&gt;
         &lt;osUpdatable&gt;true&lt;/osUpdatable&gt;
-        &lt;outerKeyStorage&gt;true&lt;/outerKeyStorage&gt;
-		&lt;PayerPhoneNumber&gt;{{payerPhone}}&lt;/PayerPhoneNumber&gt;
+        &lt;outerKeyStorage&gt;false&lt;/outerKeyStorage&gt;
+        &lt;deviceId&gt;DEVICE-123456789&lt;/deviceId&gt;
+        &lt;eventType&gt;SEND&lt;/eventType&gt;
+        &lt;eventTime&gt;2026-09-15T10:38:00.000+03:00&lt;/eventTime&gt;
+        &lt;imei&gt;356938035643809&lt;/imei&gt;
+        &lt;imsi&gt;250011234567890&lt;/imsi&gt;
+        &lt;payerPhoneNumber&gt;79991234567&lt;/payerPhoneNumber&gt;
+        &lt;dboVersion&gt;5.12.3&lt;/dboVersion&gt;
+        &lt;deviceType&gt;DESKTOP&lt;/deviceType&gt;
+        &lt;fingerprintHash&gt;8f14e45fceea167a5a36dedd4bea2543b4c2b7c1d9e0f123456789abcdef123456789abcdef123456789abcdef123456789abcdef123456789abcdef12&lt;/fingerprintHash&gt;
     &lt;/clientDeviceInfo&gt;
 	
 	&lt;payer action="UPDATE"&gt;

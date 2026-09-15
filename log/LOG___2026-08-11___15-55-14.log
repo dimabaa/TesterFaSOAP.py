@@ -1,0 +1,12 @@
+[2026-08-11] 15:55:14 INFO     Запуск программы тестирования
+[2026-08-11] 15:55:14 INFO     Читаем url.cfg
+[2026-08-11] 15:55:14 INFO     Читаем Template_decision.xml
+[2026-08-11] 15:55:14 INFO     Читаем Template_queryDecision.xml
+[2026-08-11] 15:55:14 INFO     Читаем Template_PaymentDocument.xml
+[2026-08-11] 15:55:14 INFO     Читаем Template_incomingDocument.xml
+[2026-08-11] 15:55:14 INFO     Читаем Template_checkDocumentRequest.xml
+[2026-08-11] 15:55:16 INFO     Сгенерирован новый ИСХОДЯЩИЙ документ № 9482, референс QrUT67nRFvAUCzhOau6685nWs0sl0LEFf40gQqB9
+[2026-08-11] 15:56:07 INFO     Запрос отредактирован и сохранен через отдельное окно
+[2026-08-11] 15:56:11 INFO     Пробуем отправить документ, референс QrUT67nRFvAUCzhOau6685nWs0sl0LEFf40gQqB9
+[2026-08-11] 15:56:14 INFO     Успешно отправлен документ <paymentDocument> № 9482, референс QrUT67nRFvAUCzhOau6685nWs0sl0LEFf40gQqB9
+[2026-08-11] 15:56:14 INFO     Найден результат обработки: 5 — Отказан
