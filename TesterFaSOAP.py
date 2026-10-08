@@ -46,6 +46,31 @@ logging.basicConfig(
 
 logging.info("Запуск программы тестирования")
 
+# Очистка логов
+def cleanup_old_logs(keep=10):
+    try:
+        current_log = None
+        for h in logging.root.handlers:
+            if hasattr(h, 'baseFilename'):
+                current_log = os.path.basename(h.baseFilename)
+                break
+
+        files = [
+            os.path.join(log_dir, f)
+            for f in os.listdir(log_dir)
+            if f.startswith("LOG___") and f.endswith(".log") and f != current_log
+        ]
+        files.sort(key=os.path.getmtime)
+
+        for f in files[:-keep] if len(files) > keep else []:
+            try:
+                os.remove(f)
+                logging.info(f"Удалён старый лог: {os.path.basename(f)}")
+            except OSError as e:
+                logging.warning(f"Не удалось удалить {f}: {e}")
+    except Exception as e:
+        logging.error(f"Ошибка очистки логов: {e}")
+cleanup_old_logs(keep=10)
 # Получение URL из конфига
 with open(os.path.join(cfg_dir, "url.cfg"), encoding='utf-8') as file:
     url_cfg = file.read()
@@ -113,9 +138,27 @@ def render_ipo_agent_tsp():
 
 # Сохранение URL в конфиг
 def save_url():
-    with open(os.path.join(cfg_dir, "url.cfg"), "w") as file:
-        file.write(txt_url.get())
-        logging.info("URL изменён")
+    new_url = txt_url.get().strip()
+    if not new_url:
+        return
+
+    # Поднимаем URL наверх, убираем дубли, оставляем максимум 3
+    urls = [u for u in load_urls() if u != new_url]
+    urls.insert(0, new_url)
+    urls = urls[:3]
+
+    # Пишем историю
+    with open(urls_file, "w", encoding='utf-8') as f:
+        f.write("\n".join(urls))
+
+    # Пишем старый url.cfg (для совместимости)
+    with open(os.path.join(cfg_dir, "url.cfg"), "w", encoding='utf-8') as f:
+        f.write(new_url)
+
+    # Обновляем выпадающий список
+    txt_url['values'] = urls
+    txt_url.set(new_url)
+    logging.info("URL изменён: " + new_url)
 
 
 # Генерация данных для полей документа
@@ -837,10 +880,21 @@ btn_save_url = tk.Button(
 )
 btn_save_url.grid(column=0, row=0)
 
-# URL запроса
-txt_url = Entry(window, width=50)
+# URL запроса — выпадающий список (можно и выбирать, и вводить вручную)
+txt_url = Combobox(window, width=50)
 txt_url.grid(column=1, row=0)
-txt_url.insert(tk.INSERT, url_cfg)
+
+# Файл истории URL (до 3 штук)
+urls_file = os.path.join(cfg_dir, "urls.cfg")
+
+def load_urls():
+    if os.path.exists(urls_file):
+        return [u.strip() for u in open(urls_file, encoding='utf-8') if u.strip()][:3]
+    return [url_cfg.strip()] if url_cfg.strip() else []
+
+urls = load_urls()
+txt_url['values'] = urls
+txt_url.set(urls[0] if urls else url_cfg.strip())
 
 # версия
 version = Label(text="v " + str(version), fg="#868686")
@@ -1588,7 +1642,7 @@ window.after(60000, periodic_host_check)
 """
 
 def check_expiry_date():
-    expiry_date = datetime.datetime(2026, 10, 30, 23, 59, 59)  # datetime.datetime
+    expiry_date = datetime.datetime(2027, 3, 30, 23, 59, 59)  # datetime.datetime
     if datetime.datetime.now() > expiry_date:
         print("=" * 50)
         print("error")
